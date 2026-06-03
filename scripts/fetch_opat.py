@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 fetch_opat.py — Grupo Saesa CCT
@@ -58,12 +57,10 @@ def main():
     log(f"Haciendo login como '{OPAT_USER}'...")
     try:
         r = session.post(
-            OPAT_URL + "/api.php",
+            OPAT_URL + f"/api.php?accion=login&t={ts()}",
             data={
-                "accion":   "login",
-                "usuario":  OPAT_USER,
+                "username": OPAT_USER,
                 "password": OPAT_PASS,
-                "t":        ts(),
             },
             timeout=15,
         )
