@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-06-11T01:41:40.316958+00:00",
+  "ultima_actualizacion": "2026-06-11T03:55:21.585821+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -29953,12 +29953,12 @@
       "fin": "07:00",
       "ssee": "SSEE A. de Córdova",
       "comp": "SSEE A de Córdova / INT 12kV Alim Rabat y A de Córdova",
-      "desc": " Pruebas por auditoría de protecciones ",
+      "desc": "Pruebas por auditoría de protecciones",
       "obs": "",
       "re": "No",
       "req_ro": "No",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026064375",
       "sodi": "309 (Enel)",
       "estado": "En programación",
       "fInicio": "2026-06-17",
@@ -29973,8 +29973,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"309\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"SSEE A. de Córdova\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12kV Alim Rabat\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12kV Alim  A de Córdova\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12kV Alim Rabat\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12kV Alim A de Córdova\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-05-29 17:02:53",
-      "historial": "[{\"fecha\":\"29-05-2026, 1:02:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "ultima_modificacion": "2026-06-11 03:30:24",
+      "historial": "[{\"fecha\":\"29-05-2026, 1:02:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"10-06-2026, 11:30:22 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1459",
@@ -30024,7 +30024,7 @@
       "re": "No",
       "req_ro": "No",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026064376",
       "sodi": "318 (Enel)",
       "estado": "En programación",
       "fInicio": "2026-06-17",
@@ -30039,8 +30039,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"318\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"INT 12 kV Alim Panamericana, INT 12 kV Alim Hirmas\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-03 19:13:47",
-      "historial": "[{\"fecha\":\"03-06-2026, 3:13:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "ultima_modificacion": "2026-06-11 03:34:11",
+      "historial": "[{\"fecha\":\"03-06-2026, 3:13:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"10-06-2026, 11:34:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1460",
@@ -30283,12 +30283,12 @@
       "fin": "07:00",
       "ssee": "SSEE A. de Córdova",
       "comp": "SSEE A de Córdova / INT 12kV Alim Falabella y Kennedy",
-      "desc": "Pruebas por auditoría de protecciones ",
+      "desc": "Pruebas por auditoría de protecciones",
       "obs": "",
       "re": "No",
       "req_ro": "No",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026064377",
       "sodi": "310 (Enel)",
       "estado": "En programación",
       "fInicio": "2026-06-18",
@@ -30303,8 +30303,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"310\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"SSEE A. de Córdova\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12kV Alim Falabella\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12kV Alim Kennedy\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12kV Alim Falabella\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12kV Alim Kennedy\",\"comp\":\"\",\"ssee\":\"SSEE A. de Córdova\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-05-29 17:06:11",
-      "historial": "[{\"fecha\":\"29-05-2026, 1:06:09 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "ultima_modificacion": "2026-06-11 03:48:34",
+      "historial": "[{\"fecha\":\"29-05-2026, 1:06:09 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"10-06-2026, 11:48:31 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1506",
@@ -30321,7 +30321,7 @@
       "re": "No",
       "req_ro": "No",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026064378",
       "sodi": "319 (Enel)",
       "estado": "En programación",
       "fInicio": "2026-06-18",
@@ -30336,8 +30336,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"319\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"INT 12 kV Alim Renca, INT 12 kV Alim B. Arana\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Renca\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim B. Arana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim B. Arana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Renca\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-03 19:21:54",
-      "historial": "[{\"fecha\":\"03-06-2026, 3:21:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "ultima_modificacion": "2026-06-11 03:51:18",
+      "historial": "[{\"fecha\":\"03-06-2026, 3:21:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"10-06-2026, 11:51:12 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1697",
