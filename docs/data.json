@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-06-17T14:23:57.227165+00:00",
+  "ultima_actualizacion": "2026-06-17T17:27:09.611835+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 1025,
+  "total": 1030,
   "agenda": [
     {
       "id": "1822",
@@ -26122,7 +26122,7 @@
       "area": "Área Mtto Zonal Metropolitana",
       "tipo": "DESCONEXIÓN",
       "inicio": "01:00",
-      "fin": "05:00",
+      "fin": "06:00",
       "ssee": "Santa Marta",
       "comp": "R;German Garcia / SE Santa Marta/ Interruptor 23 KV alimentador Chena",
       "desc": "SE Santa Marta/ Mantenimiento preventivo a Interruptor 23 KV alimentador Chena",
@@ -26144,9 +26144,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 13:57:17",
-      "historial": "[{\"fecha\":\"17-06-2026, 9:55:35 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 9:57:15 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:47:24",
+      "historial": "[{\"fecha\":\"17-06-2026, 9:55:35 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 9:57:15 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:47:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1519",
@@ -26155,7 +26155,7 @@
       "area": "Área Mtto Zonal Metropolitana",
       "tipo": "DESCONEXIÓN",
       "inicio": "01:00",
-      "fin": "05:00",
+      "fin": "06:00",
       "ssee": "Santa Marta",
       "comp": "Int 12 KV alimentador Carvallo; Matias Silva",
       "desc": "SE Santa Marta; Verificación de ajustes y pruebas efectivas Int 12 KV alimentador Carvallo",
@@ -26177,9 +26177,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"INT 12 kV Alim Renca, INT 12 kV Alim B. Arana\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 13:57:07",
-      "historial": "[{\"fecha\":\"17-06-2026, 9:49:19 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 9:57:04 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:48:54",
+      "historial": "[{\"fecha\":\"17-06-2026, 9:49:19 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 9:57:04 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:48:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1508",
@@ -26188,7 +26188,7 @@
       "area": "Área Mtto Zonal Metropolitana",
       "tipo": "DESCONEXIÓN",
       "inicio": "02:00",
-      "fin": "06:00",
+      "fin": "05:00",
       "ssee": "Santa Rosa Sur",
       "comp": "Int 12 KV alimentador Luis Matte.; Matias Silva",
       "desc": "SE Santa Rosa Sur; Verificación de ajustes y pruebas efectivas Int 12 KV alimentador Luis Matte.",
@@ -26203,16 +26203,16 @@
       "fFin": "2026-06-18",
       "to1": "1.00",
       "to2": "1.00",
-      "go1": "",
-      "go2": "",
+      "go1": "stm2",
+      "go2": "stm2",
       "gop": "",
       "esSodi": "false",
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 13:50:18",
-      "historial": "[{\"fecha\":\"17-06-2026, 9:50:15 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:48:11",
+      "historial": "[{\"fecha\":\"17-06-2026, 9:50:15 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:48:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "1815",
@@ -26561,7 +26561,7 @@
       "prog": "aas",
       "aviso": "2026064893",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-19",
       "fFin": "2026-06-19",
       "to1": "0.00",
@@ -26573,9 +26573,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-12 14:09:12",
-      "historial": "[{\"fecha\":\"08-06-2026, 4:04:41 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"12-06-2026, 10:07:36 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"12-06-2026, 10:09:09 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 14:40:35",
+      "historial": "[{\"fecha\":\"08-06-2026, 4:04:41 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"12-06-2026, 10:07:36 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"12-06-2026, 10:09:09 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 10:40:34 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1706",
@@ -26594,7 +26594,7 @@
       "prog": "jvc",
       "aviso": "2026062842",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-19",
       "fFin": "2026-06-19",
       "to1": "0.00",
@@ -26606,9 +26606,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI INTERVENCIÓN\",\"inst\":\"Alto Jahuel  / 52J2, 52J4\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-09 11:37:39",
-      "historial": "[{\"fecha\":\"09-06-2026, 7:37:37 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI INTERVENCIÓN\",\"inst\":\"Alto Jahuel  / 52J2, 52J4\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 14:37:31",
+      "historial": "[{\"fecha\":\"09-06-2026, 7:37:37 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 10:37:30 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1622",
@@ -26823,7 +26823,7 @@
       "re": "No",
       "req_ro": "No",
       "prog": "jvc",
-      "aviso": "",
+      "aviso": "No Requiere",
       "sodi": "",
       "estado": "Autorizado",
       "fInicio": "2026-06-19",
@@ -26838,8 +26838,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 14:20:08",
-      "historial": "[{\"fecha\":\"15-06-2026, 4:48:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 4:50:03 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 7:16:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:20:07 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 14:30:04",
+      "historial": "[{\"fecha\":\"15-06-2026, 4:48:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 4:50:03 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 7:16:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:20:07 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:30:03 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1320",
@@ -26891,7 +26891,7 @@
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-19",
       "fFin": "2026-06-19",
       "to1": "0.00",
@@ -26904,8 +26904,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 14:14:33",
-      "historial": "[{\"fecha\":\"15-06-2026, 4:58:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 10:14:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:14:32 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 14:25:43",
+      "historial": "[{\"fecha\":\"15-06-2026, 4:58:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 10:14:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:14:32 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:25:42 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1833",
@@ -26924,7 +26924,7 @@
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-19",
       "fFin": "2026-06-19",
       "to1": "0.00",
@@ -26937,8 +26937,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 14:14:40",
-      "historial": "[{\"fecha\":\"15-06-2026, 5:00:28 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 10:14:22 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:14:39 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 14:30:35",
+      "historial": "[{\"fecha\":\"15-06-2026, 5:00:28 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 10:14:22 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:14:39 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 10:30:34 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1498",
@@ -27020,10 +27020,10 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-19",
       "fFin": "2026-06-19",
       "to1": "0.00",
@@ -27035,9 +27035,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 20:54:58",
-      "historial": "[{\"fecha\":\"15-06-2026, 4:54:58 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:19:27",
+      "historial": "[{\"fecha\":\"15-06-2026, 4:54:58 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 11:19:23 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1629",
@@ -27077,7 +27077,7 @@
       "pt": "2026-10320",
       "zona": "Metropolitana",
       "area": "Cge Dx",
-      "tipo": "DESCONEXIÓN",
+      "tipo": "INTERVENCIÓN",
       "inicio": "00:30",
       "fin": "23:00",
       "ssee": "Fuentecilla",
@@ -27102,12 +27102,12 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 11:17:44",
-      "historial": "[{\"fecha\":\"15-06-2026, 12:06:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 4:24:42 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:26:50 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 7:17:16 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 7:17:45 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 15:21:27",
+      "historial": "[{\"fecha\":\"15-06-2026, 12:06:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 4:24:42 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:26:50 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 7:17:16 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 7:17:45 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 11:21:24 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1601",
-      "pt": "0065-2026",
+      "pt": "2026-10529",
       "zona": "Metropolitana",
       "area": "Cge Dx",
       "tipo": "INTERVENCIÓN",
@@ -27134,13 +27134,13 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-02 12:01:49",
-      "historial": "[{\"fecha\":\"02-06-2026, 7:50:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"02-06-2026, 7:52:48 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"02-06-2026, 8:01:48 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 14:58:32",
+      "historial": "[{\"fecha\":\"02-06-2026, 7:50:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"02-06-2026, 7:52:48 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"02-06-2026, 8:01:48 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 10:58:31 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1603",
-      "pt": "0067-2026",
+      "pt": "2026-10530",
       "zona": "Metropolitana",
       "area": "Cge Dx",
       "tipo": "INTERVENCIÓN",
@@ -27167,9 +27167,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-02 11:54:45",
-      "historial": "[{\"fecha\":\"02-06-2026, 7:54:44 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:00:30",
+      "historial": "[{\"fecha\":\"02-06-2026, 7:54:44 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 11:00:28 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1113",
@@ -27452,7 +27452,7 @@
       "prog": "jvc",
       "aviso": "2026065705",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-20",
       "fFin": "2026-06-20",
       "to1": "0.00",
@@ -27464,9 +27464,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 20:14:19",
-      "historial": "[{\"fecha\":\"15-06-2026, 8:26:55 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:14:19 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:48:59",
+      "historial": "[{\"fecha\":\"15-06-2026, 8:26:55 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:14:19 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:48:58 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1549",
@@ -27663,7 +27663,7 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 21:41:25",
+      "ultima_modificacion": "2026-06-17 16:25:12",
       "historial": "[{\"fecha\":\"08-06-2026, 2:59:03 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"15-06-2026, 3:18:32 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:33:09 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:41:24 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
@@ -27716,7 +27716,7 @@
       "prog": "jvc",
       "aviso": "2026065697",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-20",
       "fFin": "2026-06-20",
       "to1": "0.00",
@@ -27728,9 +27728,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 20:09:00",
-      "historial": "[{\"fecha\":\"15-06-2026, 8:29:42 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:09:00 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:47:16",
+      "historial": "[{\"fecha\":\"15-06-2026, 8:29:42 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 4:09:00 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:47:15 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1818",
@@ -27767,7 +27767,7 @@
     },
     {
       "id": "1602",
-      "pt": "0066-2026",
+      "pt": "2026-10529",
       "zona": "Metropolitana",
       "area": "Cge Dx",
       "tipo": "INTERVENCIÓN",
@@ -27794,13 +27794,13 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-02 12:03:22",
-      "historial": "[{\"fecha\":\"02-06-2026, 7:51:29 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"02-06-2026, 8:03:22 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 14:57:50",
+      "historial": "[{\"fecha\":\"02-06-2026, 7:51:29 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"02-06-2026, 8:03:22 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 10:57:49 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1604",
-      "pt": "0068-2026",
+      "pt": "2026-10530",
       "zona": "Metropolitana",
       "area": "Cge Dx",
       "tipo": "INTERVENCIÓN",
@@ -27827,9 +27827,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-02 11:57:11",
-      "historial": "[{\"fecha\":\"02-06-2026, 7:57:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:00:40",
+      "historial": "[{\"fecha\":\"02-06-2026, 7:57:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 11:00:39 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1628",
@@ -28013,7 +28013,7 @@
       "prog": "jvc",
       "aviso": "2026065679",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-21",
       "fFin": "2026-06-21",
       "to1": "0.00",
@@ -28025,9 +28025,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":\"VITACURA /\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:38:44",
-      "historial": "[{\"fecha\":\"26-05-2026, 1:56:16 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:38:44 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":\"VITACURA /\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:44:19",
+      "historial": "[{\"fecha\":\"26-05-2026, 1:56:16 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:38:44 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:44:18 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1661",
@@ -28040,13 +28040,13 @@
       "ssee": "VITACURA",
       "comp": "",
       "desc": "Se realizará el mantenimiento preventivo a UTR ELIOP SDAC Y SCL EFACEC de subestación. Además, se realizará el respaldo de las actuales configuraciones de los sistemas de UTR y SCL.",
-      "obs": " Se interrumpirá la comunicación sistema SCADA por 30 min. aprox. en dos oportunidades para el caso de la UTR SDAC y SCL previa coordinación con despachador de turno.",
+      "obs": "Se interrumpirá la comunicación sistema SCADA por 30 min. aprox. en dos oportunidades para el caso de la UTR SDAC y SCL previa coordinación con despachador de turno.",
       "re": "No",
       "req_ro": "No",
       "prog": "jvc",
       "aviso": "2026065658",
       "sodi": "329 (Enel Dx)",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-21",
       "fFin": "2026-06-21",
       "to1": "0.00",
@@ -28058,9 +28058,9 @@
       "sodiCorrelativo": "329 (Enel Dx)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"329\",\"para\":\"Enel Dx\",\"de\":\"Jeanine Valenzuela\",\"obs\":\" Se interrumpirá la comunicación sistema SCADA por 30 min. aprox. en dos oportunidades para el caso de la UTR SDAC y SCL previa coordinación con despachador de turn\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":\"VITACURA /\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:30:34",
-      "historial": "[{\"fecha\":\"08-06-2026, 5:06:19 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 8:55:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:30:34 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"329\",\"para\":\"Enel Dx\",\"de\":\"Jeanine Valenzuela\",\"obs\":\"Se interrumpirá la comunicación sistema SCADA por 30 min. aprox. en dos oportunidades para el caso de la UTR SDAC y SCL previa coordinación con despachador de turn\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":\"VITACURA /\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:37:50",
+      "historial": "[{\"fecha\":\"08-06-2026, 5:06:19 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 8:55:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:30:34 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:37:49 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1218",
@@ -28112,7 +28112,7 @@
       "prog": "jvc",
       "aviso": "2026065657",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-21",
       "fFin": "2026-06-21",
       "to1": "0.00",
@@ -28124,15 +28124,15 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:24:24",
-      "historial": "[{\"fecha\":\"26-05-2026, 1:57:36 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:24:24 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:34:57",
+      "historial": "[{\"fecha\":\"26-05-2026, 1:57:36 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:24:24 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:34:56 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1816",
       "pt": "2026-10308",
       "zona": "Metropolitana",
-      "area": "Área Mtto Zonal Metropolitana",
+      "area": "Sodi Terceros",
       "tipo": "DESCONEXIÓN",
       "inicio": "06:00",
       "fin": "18:00",
@@ -28148,18 +28148,18 @@
       "estado": "En programación",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-22",
-      "to1": "0.00",
-      "to2": "0.00",
-      "go1": "",
-      "go2": "",
+      "to1": "1.00",
+      "to2": "1.00",
+      "go1": "S",
+      "go2": "S",
       "gop": "",
       "esSodi": "false",
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:11:03",
-      "historial": "[{\"fecha\":\"15-06-2026, 2:33:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 3:11:03 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:31:18",
+      "historial": "[{\"fecha\":\"15-06-2026, 2:33:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 3:11:03 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:31:07 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:31:17 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1798",
@@ -28178,7 +28178,7 @@
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-27",
       "to1": "0.00",
@@ -28190,9 +28190,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:06:04",
-      "historial": "[{\"fecha\":\"15-06-2026, 12:15:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 3:06:03 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:04:22",
+      "historial": "[{\"fecha\":\"15-06-2026, 12:15:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 3:06:03 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:04:21 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1835",
@@ -28211,7 +28211,7 @@
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-22",
       "to1": "0.00",
@@ -28223,9 +28223,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 11:28:20",
-      "historial": "[{\"fecha\":\"15-06-2026, 5:04:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"16-06-2026, 7:28:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:09:56",
+      "historial": "[{\"fecha\":\"15-06-2026, 5:04:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"16-06-2026, 7:28:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:09:55 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1357",
@@ -28301,7 +28301,7 @@
       "tipo": "INTERVENCIÓN",
       "inicio": "08:00",
       "fin": "18:00",
-      "ssee": "TAP OFF LAS GARZAS ",
+      "ssee": "TAP OFF LAS GARZAS",
       "comp": "",
       "desc": "S/E Las Garzas- Con SODI N° 29362, Transelec solicita no reconectar 52JT1",
       "obs": "",
@@ -28310,7 +28310,7 @@
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-24",
       "to1": "0.00",
@@ -28322,9 +28322,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:10:00",
-      "historial": "[{\"fecha\":\"12-06-2026, 10:56:01 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 8:59:54 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:10:00 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:36:34",
+      "historial": "[{\"fecha\":\"12-06-2026, 10:56:01 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 8:59:54 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:10:00 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 11:36:32 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1778",
@@ -28376,7 +28376,7 @@
       "prog": "jvc",
       "aviso": "2026065741",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-22",
       "to1": "0.00",
@@ -28388,9 +28388,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 20:38:39",
-      "historial": "[{\"fecha\":\"15-06-2026, 4:35:22 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"15-06-2026, 4:38:38 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:29:47",
+      "historial": "[{\"fecha\":\"15-06-2026, 4:35:22 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"15-06-2026, 4:38:38 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:29:46 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1775",
@@ -28409,7 +28409,7 @@
       "prog": "jvc",
       "aviso": "2026065627",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-22",
       "to1": "0.00",
@@ -28421,9 +28421,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-15 19:04:43",
-      "historial": "[{\"fecha\":\"12-06-2026, 10:53:51 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 9:16:50 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:04:42 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:32:45",
+      "historial": "[{\"fecha\":\"12-06-2026, 10:53:51 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"15-06-2026, 9:16:50 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"15-06-2026, 3:04:42 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:32:44 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1278",
@@ -28463,7 +28463,7 @@
       "pt": "2026-10325",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "DESCONEXIÓN",
+      "tipo": "INTERVENCIÓN",
       "inicio": "10:00",
       "fin": "16:00",
       "ssee": "LA PINTANA (Subestación)",
@@ -28471,11 +28471,11 @@
       "desc": "S/E La Pintana- Con SODI N° 350172 /2026 Cge Dx solicita no reconectar Alimentador Menadier.",
       "obs": "",
       "re": "No",
-      "req_ro": "Sí",
+      "req_ro": "No",
       "prog": "jvc",
       "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-06-22",
       "fFin": "2026-06-22",
       "to1": "0.00",
@@ -28488,8 +28488,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 12:52:19",
-      "historial": "[{\"fecha\":\"15-06-2026, 4:56:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 8:52:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 16:41:31",
+      "historial": "[{\"fecha\":\"15-06-2026, 4:56:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 8:52:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:24:39 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:41:30 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1539",
@@ -28572,7 +28572,7 @@
       "re": "No",
       "req_ro": "No",
       "prog": "jvc",
-      "aviso": "",
+      "aviso": "2026066013",
       "sodi": "",
       "estado": "En programación",
       "fInicio": "2026-06-23",
@@ -28586,9 +28586,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 21:45:33",
-      "historial": "[{\"fecha\":\"15-06-2026, 9:19:49 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:43:48 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:45:32 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 16:52:45",
+      "historial": "[{\"fecha\":\"15-06-2026, 9:19:49 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:43:48 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:45:32 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"17-06-2026, 12:52:45 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1808",
@@ -28610,18 +28610,18 @@
       "estado": "En programación",
       "fInicio": "2026-06-23",
       "fFin": "2026-06-23",
-      "to1": "0.00",
-      "to2": "0.00",
-      "go1": "",
-      "go2": "",
+      "to1": "1.00",
+      "to2": "1.00",
+      "go1": "S",
+      "go2": "S",
       "gop": "",
       "esSodi": "false",
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-17 12:52:37",
-      "historial": "[{\"fecha\":\"15-06-2026, 2:19:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 8:52:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 16:57:24",
+      "historial": "[{\"fecha\":\"15-06-2026, 2:19:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"17-06-2026, 8:52:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 12:57:23 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1802",
@@ -29198,7 +29198,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "No",
-      "prog": "",
+      "prog": "aas",
       "aviso": "",
       "sodi": "",
       "estado": "En programación",
@@ -29214,7 +29214,7 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 21:45:24",
+      "ultima_modificacion": "2026-06-17 15:30:04",
       "historial": "[{\"fecha\":\"15-06-2026, 5:13:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     },
     {
@@ -29264,7 +29264,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "No",
-      "prog": "",
+      "prog": "aas",
       "aviso": "",
       "sodi": "",
       "estado": "En programación",
@@ -29280,7 +29280,7 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 21:45:22",
+      "ultima_modificacion": "2026-06-17 15:30:06",
       "historial": "[{\"fecha\":\"16-06-2026, 4:01:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     },
     {
@@ -29397,7 +29397,7 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "jcm",
-      "aviso": "2026054167",
+      "aviso": "2026066727",
       "sodi": "",
       "estado": "En programación",
       "fInicio": "2026-06-24",
@@ -29412,8 +29412,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 21:08:48",
-      "historial": "[{\"fecha\":\"28-05-2026, 12:30:42 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"11-06-2026, 11:28:21 a. m.\",\"usuario\":\"Jorge Cañete\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:08:45 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-17 15:54:16",
+      "historial": "[{\"fecha\":\"28-05-2026, 12:30:42 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"11-06-2026, 11:28:21 a. m.\",\"usuario\":\"Jorge Cañete\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"16-06-2026, 5:08:45 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-06-2026, 11:54:16 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1505",
@@ -30088,8 +30088,8 @@
       "desc": "LOS DOMINICOS ; MANT. PREV. TP HBP1  (X3) 110 KV ACOPLADOR B1-B2 L/B1 /PMA",
       "obs": "",
       "re": "No",
-      "req_ro": "No",
-      "prog": "",
+      "req_ro": "Sí",
+      "prog": "jcm",
       "aviso": "",
       "sodi": "",
       "estado": "En programación",
@@ -30104,9 +30104,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "[]",
-      "ultima_modificacion": "2026-05-20 14:50:36",
-      "historial": "[]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:58:59",
+      "historial": "[{\"fecha\":\"17-06-2026, 11:58:58 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1653",
@@ -30650,7 +30650,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "No",
-      "prog": "Nicolas Lorenzen",
+      "prog": "",
       "aviso": "",
       "sodi": "",
       "estado": "En programación",
@@ -30666,7 +30666,7 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-12 14:40:28",
+      "ultima_modificacion": "2026-06-17 15:59:32",
       "historial": "[{\"fecha\":\"12-06-2026, 10:40:27 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     },
     {
@@ -30767,6 +30767,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-06-16 21:45:53",
       "historial": "[{\"fecha\":\"15-06-2026, 2:10:40 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+    },
+    {
+      "id": "1881",
+      "pt": "2026-10496",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "LAMPA (Subestación)",
+      "comp": "",
+      "desc": "SODI 29637 - Transelec solicita Bloqueo R.A 52J1 Lampa, 52J1, 52J2, 52J4, 52J5 Nueva Lampa",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-06-29",
+      "fFin": "2026-07-04",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:02:25",
+      "historial": "[{\"fecha\":\"17-06-2026, 3:02:24 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     },
     {
       "id": "1479",
@@ -30998,6 +31031,72 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-06-16 21:45:56",
       "historial": "[{\"fecha\":\"03-06-2026, 10:33:14 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+    },
+    {
+      "id": "1883",
+      "pt": "2026-10499",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "NUEVA LAMPA (Subestación)",
+      "comp": "",
+      "desc": "SODI 29640 - Transelec solicita Bloqueo R.A 52J2, 52J3, 52J5, 52J6 Nueva Lampa",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-06-30",
+      "fFin": "2026-07-03",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:05:25",
+      "historial": "[{\"fecha\":\"17-06-2026, 3:05:25 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+    },
+    {
+      "id": "1884",
+      "pt": "2026-10498",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "CHENA (Subestación)",
+      "comp": "",
+      "desc": "SODI 29639 - Transelec solicita Bloqueo R.A 52J1, 52J2 Chena",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-06-30",
+      "fFin": "2026-07-03",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:06:55",
+      "historial": "[{\"fecha\":\"17-06-2026, 3:06:55 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     },
     {
       "id": "1658",
@@ -33541,6 +33640,39 @@
       "historial": "[]"
     },
     {
+      "id": "1882",
+      "pt": "2026-10491",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "00:00",
+      "fin": "18:00",
+      "ssee": "Trinidad (Subestación)",
+      "comp": "",
+      "desc": "Desconexión Paño B1 y B2 S/E Trinidad -Sodi 033 de Cge Tx O’Higgins",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-07-20",
+      "fFin": "2026-07-20",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:03:54",
+      "historial": "[{\"fecha\":\"17-06-2026, 3:03:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+    },
+    {
       "id": "1757",
       "pt": "2026-10138",
       "zona": "Metropolitana",
@@ -33836,6 +33968,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-06-12 13:56:01",
       "historial": "[{\"fecha\":\"12-06-2026, 9:56:01 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+    },
+    {
+      "id": "1885",
+      "pt": "2026-10494",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "04:00",
+      "fin": "23:00",
+      "ssee": "Fuentecilla (Subestación)",
+      "comp": "",
+      "desc": "S/E Fuentecilla- Con SODI N°035 Cge Tx solicita no reconectar 52B2",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-07-28",
+      "fFin": "2026-07-28",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-17 15:08:26",
+      "historial": "[{\"fecha\":\"17-06-2026, 3:08:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
     }
   ]
 }
