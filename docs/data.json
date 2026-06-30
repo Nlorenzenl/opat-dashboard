@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-06-30T03:35:26.281513+00:00",
+  "ultima_actualizacion": "2026-06-30T13:02:56.944618+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -36653,11 +36653,11 @@
       "ssee": "Altamirano",
       "comp": "Gustavo Herrera G. / STM / Alim 12kV Panamericana e Hirmas., INT 12 kV Alim Panamericana, INT 12 kV Alim Hirmas",
       "desc": "Pruebas por auditoría de protecciones asociadas a los alimentadores, Panamericana e Hirmas.",
-      "obs": "[REPROGRAMACIÓN | Motivo anterior: x factibilidad de respasldo en MT y en coordinacion con SE] ",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: x factibilidad de respasldo en MT y en coordinacion con SE]",
       "re": "No",
-      "req_ro": "No",
+      "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "2026064376",
+      "aviso": "2026071846",
       "sodi": "318 (Enel)",
       "estado": "En programación",
       "fInicio": "2026-07-05",
@@ -36671,9 +36671,9 @@
       "sodiCorrelativo": "318 (Enel)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"318\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"INT 12 kV Alim Panamericana, INT 12 kV Alim Hirmas\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-16 15:21:40",
-      "historial": "[{\"fecha\":\"16-06-2026, 11:21:40 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"318\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"INT 12 kV Alim Panamericana, INT 12 kV Alim Hirmas\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Hirmas\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Panamericana\",\"comp\":\"\",\"ssee\":\"Altamirano\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-06-30 05:21:47",
+      "historial": "[{\"fecha\":\"16-06-2026, 11:21:40 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"30-06-2026, 1:21:51 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1738",
@@ -36888,7 +36888,7 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "2026062609",
+      "aviso": "2026071847",
       "sodi": "",
       "estado": "En programación",
       "fInicio": "2026-07-05",
@@ -36903,8 +36903,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-23 11:38:43",
-      "historial": "[{\"fecha\":\"10-06-2026, 4:48:14 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"17-06-2026, 8:54:00 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-06-2026, 7:38:42 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-06-30 05:24:56",
+      "historial": "[{\"fecha\":\"10-06-2026, 4:48:14 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"17-06-2026, 8:54:00 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-06-2026, 7:38:42 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"30-06-2026, 1:25:01 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1812",
