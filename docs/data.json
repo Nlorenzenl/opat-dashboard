@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-03T16:23:49.749309+00:00",
+  "ultima_actualizacion": "2026-07-03T17:53:31.988670+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -37649,7 +37649,7 @@
       "prog": "jcm",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
       "to1": "0.00",
@@ -37662,8 +37662,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-03 14:36:14",
-      "historial": "[{\"fecha\":\"26-06-2026, 12:05:30 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 10:05:17 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 10:35:06 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Suspensión\",\"motivo\":\"qqqqqq\"},{\"fecha\":\"03-07-2026, 10:36:14 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 17:41:14",
+      "historial": "[{\"fecha\":\"26-06-2026, 12:05:30 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 10:05:17 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 10:35:06 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Suspensión\",\"motivo\":\"qqqqqq\"},{\"fecha\":\"03-07-2026, 10:36:14 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 1:41:13 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1971",
@@ -37879,7 +37879,7 @@
       "req_ro": "No",
       "prog": "aas",
       "aviso": "2026071609",
-      "sodi": "",
+      "sodi": "364 (ENEL)",
       "estado": "En programación",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
@@ -37888,13 +37888,13 @@
       "go1": "",
       "go2": "",
       "gop": "",
-      "esSodi": "false",
-      "sodiCorrelativo": "",
+      "esSodi": "true",
+      "sodiCorrelativo": "364 (ENEL)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-27 03:38:58",
-      "historial": "[{\"fecha\":\"26-06-2026, 12:14:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"26-06-2026, 11:38:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"364\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"Perdida de comunicaciones solo con la SUbestación\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-03 16:33:23",
+      "historial": "[{\"fecha\":\"26-06-2026, 12:14:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"26-06-2026, 11:38:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:33:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2142",
@@ -37937,15 +37937,15 @@
       "tipo": "INTERVENCIÓN",
       "inicio": "09:00",
       "fin": "18:00",
-      "ssee": "RECOLETA (Subestación)",
-      "comp": "",
+      "ssee": "RECOLETA",
+      "comp": "EDAC BF",
       "desc": "Se incorporara alambrado señales de estado de interruptor en relé baja frecuencia. Además se incorporara al esquema de baja frecuencia el alimentador El Roble 52C22. Esto a petición de Enel y autorizado por el CEN, en el contexto de adecuación baja frecuencia.",
       "obs": "FALTA SODI A ENEL",
       "re": "No",
       "req_ro": "No",
       "prog": "aas",
       "aviso": "2026071332",
-      "sodi": "",
+      "sodi": "363 (ENEL)",
       "estado": "En programación",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
@@ -37954,13 +37954,13 @@
       "go1": "",
       "go2": "",
       "gop": "",
-      "esSodi": "false",
-      "sodiCorrelativo": "",
+      "esSodi": "true",
+      "sodiCorrelativo": "363 (ENEL)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":\"CLUB HIPICO\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-26 16:48:05",
-      "historial": "[{\"fecha\":\"21-06-2026, 7:47:40 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"26-06-2026, 12:48:05 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"362\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"No tiene afectación de consumos.\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"CLUB HIPICO\",\"maniobras\":[]},{\"activa\":true,\"correlativo\":\"363\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"Sin afectacion de clientes.\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-03 16:32:01",
+      "historial": "[{\"fecha\":\"21-06-2026, 7:47:40 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"26-06-2026, 12:48:05 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"03-07-2026, 12:28:28 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:45 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:31:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2114",
@@ -37979,7 +37979,7 @@
       "prog": "jcm",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
       "to1": "0.00",
@@ -37992,8 +37992,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-02 14:07:35",
-      "historial": "[{\"fecha\":\"25-06-2026, 9:37:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 9:50:24 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 10:07:34 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 17:41:22",
+      "historial": "[{\"fecha\":\"25-06-2026, 9:37:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 9:50:24 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"02-07-2026, 10:07:34 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 1:41:21 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1572",
