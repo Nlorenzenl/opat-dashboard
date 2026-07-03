@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-03T02:53:01.920365+00:00",
+  "ultima_actualizacion": "2026-07-03T12:51:24.775831+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 1372,
+  "total": 1373,
   "agenda": [
     {
       "id": "2200",
@@ -37501,6 +37501,39 @@
       "historial": "[{\"fecha\":\"22-06-2026, 3:52:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"23-06-2026, 7:39:21 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-06-2026, 2:17:24 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
+      "id": "2242",
+      "pt": "2026-11703",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "DESCONEXIÓN",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "SANTA ELENA (Subestación)",
+      "comp": "",
+      "desc": "Con SODI 129 de ENEL. Ingreso a Santa Elena (Autoriza Carla Zapata)",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En programación",
+      "fInicio": "2026-07-06",
+      "fFin": "2026-07-20",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-03 12:01:54",
+      "historial": "[{\"fecha\":\"03-07-2026, 12:01:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
       "id": "1993",
       "pt": "2026-10768",
       "zona": "Metropolitana",
@@ -38894,14 +38927,14 @@
       "tipo": "DESCONEXIÓN",
       "inicio": "01:00",
       "fin": "06:00",
-      "ssee": "Pruebas por auditoría de protecciones asociadas al alimentador La Unión.",
+      "ssee": "Altamirano",
       "comp": "Gustavo Herrera G. / STM / Alim 12kV La Unión.",
       "desc": "Pruebas por auditoría de protecciones asociadas al alimentador La Unión.",
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026073881",
       "sodi": "",
       "estado": "En programación",
       "fInicio": "2026-07-09",
@@ -38915,9 +38948,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "[]",
-      "ultima_modificacion": "2026-06-22 21:11:50",
-      "historial": "[]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-03 04:03:49",
+      "historial": "[{\"fecha\":\"03-07-2026, 12:03:50 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1762",
