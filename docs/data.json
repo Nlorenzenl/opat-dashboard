@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-03T20:09:23.517838+00:00",
+  "ultima_actualizacion": "2026-07-03T21:20:46.011406+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -37568,7 +37568,7 @@
     },
     {
       "id": "2238",
-      "pt": "E134",
+      "pt": "2026-11758",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
       "tipo": "DESCONEXIÓN",
@@ -37583,7 +37583,7 @@
       "prog": "aas",
       "aviso": "2026068522",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-05",
       "fFin": "2026-07-05",
       "to1": "1.00",
@@ -37596,8 +37596,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-02 21:45:00",
-      "historial": "[{\"fecha\":\"02-07-2026, 5:44:59 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 20:28:21",
+      "historial": "[{\"fecha\":\"02-07-2026, 5:44:59 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 4:28:18 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1318",
