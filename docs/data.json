@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-03T18:55:13.026108+00:00",
+  "ultima_actualizacion": "2026-07-03T20:09:23.517838+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -37715,7 +37715,7 @@
       "prog": "aas",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-20",
       "to1": "0.00",
@@ -37728,8 +37728,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-03 13:56:47",
-      "historial": "[{\"fecha\":\"03-07-2026, 12:01:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 20:07:30",
+      "historial": "[{\"fecha\":\"03-07-2026, 12:01:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 4:07:27 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1993",
@@ -37807,14 +37807,14 @@
       "fin": "15:00",
       "ssee": "BATUCO (Subestación)",
       "comp": "",
-      "desc": "Bloqueo R.A - H1- S/E Fuentecilla - Sodi 10208172-1",
-      "obs": "",
+      "desc": "Bloqueo R.A - H1- S/E Batuco - Sodi 10208172-1",
+      "obs": "(Considerdo como operacional)",
       "re": "No",
       "req_ro": "Sí",
       "prog": "aas",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-15",
       "to1": "0.00",
@@ -37827,8 +37827,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-06-30 14:43:35",
-      "historial": "[{\"fecha\":\"25-06-2026, 3:02:06 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 19:58:38",
+      "historial": "[{\"fecha\":\"25-06-2026, 3:02:06 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 3:56:32 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 3:58:36 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2125",
@@ -37874,13 +37874,13 @@
       "ssee": "LO VALLEDOR (Subestación)",
       "comp": "",
       "desc": "S/E Lo Valledor. Se realizará el mantenimiento preventivo a SCL EFACEC de subestación. Además, se realizará el respaldo de las actuales configuraciones del sistema SCL. Se interrumpirá la comunicación sistema SCADA por 30 min. aprox. en dos oportunidades para el caso SCL EFACEC previa coordinación con despachador de turno.",
-      "obs": "Falta SODI a ENEL",
+      "obs": "",
       "re": "No",
       "req_ro": "No",
       "prog": "aas",
       "aviso": "2026071609",
       "sodi": "364 (ENEL)",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
       "to1": "0.00",
@@ -37893,8 +37893,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"364\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"Perdida de comunicaciones solo con la SUbestación\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-03 16:33:23",
-      "historial": "[{\"fecha\":\"26-06-2026, 12:14:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"26-06-2026, 11:38:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:33:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 20:05:45",
+      "historial": "[{\"fecha\":\"26-06-2026, 12:14:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"26-06-2026, 11:38:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:33:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 4:05:42 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2142",
@@ -37940,13 +37940,13 @@
       "ssee": "RECOLETA",
       "comp": "EDAC BF",
       "desc": "Se incorporara alambrado señales de estado de interruptor en relé baja frecuencia. Además se incorporara al esquema de baja frecuencia el alimentador El Roble 52C22. Esto a petición de Enel y autorizado por el CEN, en el contexto de adecuación baja frecuencia.",
-      "obs": "FALTA SODI A ENEL",
+      "obs": "",
       "re": "No",
       "req_ro": "No",
       "prog": "aas",
       "aviso": "2026071332",
       "sodi": "363 (ENEL)",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-06",
       "fFin": "2026-07-06",
       "to1": "0.00",
@@ -37959,8 +37959,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"362\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"No tiene afectación de consumos.\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"CLUB HIPICO\",\"maniobras\":[]},{\"activa\":true,\"correlativo\":\"363\",\"para\":\"ENEL\",\"de\":\"Alexis Aedo\",\"obs\":\"Sin afectacion de clientes.\",\"tipo\":\"SODI INFORMATIVA\",\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-03 16:32:01",
-      "historial": "[{\"fecha\":\"21-06-2026, 7:47:40 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"26-06-2026, 12:48:05 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"03-07-2026, 12:28:28 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:45 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:31:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-03 20:03:44",
+      "historial": "[{\"fecha\":\"21-06-2026, 7:47:40 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"26-06-2026, 12:48:05 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"03-07-2026, 12:28:28 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:30:45 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 12:31:58 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-07-2026, 4:03:41 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2114",
