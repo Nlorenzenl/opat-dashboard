@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-07T23:16:03.620168+00:00",
+  "ultima_actualizacion": "2026-07-08T02:35:26.754571+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -39518,7 +39518,7 @@
       "pt": "2026-08191",
       "zona": "Metropolitana",
       "area": "Proyectos Tx Zona Centro-Norte",
-      "tipo": "DESCONEXIÓN",
+      "tipo": "Desconexión (IE)",
       "inicio": "09:00",
       "fin": "16:00",
       "ssee": "Panamericana-ODATA",
@@ -39530,7 +39530,7 @@
       "prog": "jcm",
       "aviso": "DI2026073033",
       "sodi": "320-2026 (ENOR)",
-      "estado": "En programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-08",
       "fFin": "2026-07-08",
       "to1": "1.00",
@@ -39543,8 +39543,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"320-2026\",\"para\":\"ENOR\",\"de\":\"Jorge Cañete\",\"obs\":\"Trabajos enmarcados en proyecto NUP 3129\",\"tipo\":\"DESCONEXIÓN\",\"inst\":\"Panamericana-ODATA / CTO N°1 110 kV GIS H3 - GIS Odata HL1.\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto y bloqueado 52H3\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto y bloqueado 89H3-1\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto y bloqueado 89H3-2\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto y bloqueado 89HL1-1\",\"comp\":\"\",\"ssee\":\"Odata\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"\",\"comp\":\"\",\"ssee\":\"\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Cerrado Desconectador Tierra  89HL1-2T\",\"comp\":\"\",\"ssee\":\"Odata\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Abierto Desconectador Tierra  89HL1-2T\",\"comp\":\"\",\"ssee\":\"Odata\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Abierto  Desconectador Tierra  89H3-2T\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Abierto Desconectador Tierra 89H3-1T\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"\",\"comp\":\"\",\"ssee\":\"\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Desbloqueado y Cerrado 89HL1-1\",\"comp\":\"\",\"ssee\":\"Odata\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Desbloqueado y Cerrado  89H3-1\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Desbloqueado y Cerrado 89H3-2\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Desbloqueado y Cerrado  52H3\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Cerrado Desconectador Tierra 89H3-1T\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Cerrado Desconectador Tierra  89H3-2T\",\"comp\":\"\",\"ssee\":\"Panamericana\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-02 20:04:45",
-      "historial": "[{\"fecha\":\"28-05-2026, 12:29:25 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"01-06-2026, 9:47:29 a. m.\",\"usuario\":\"Jorge Cañete\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"30-06-2026, 6:59:41 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"30-06-2026, 7:06:18 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"02-07-2026, 4:04:44 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-08 00:39:01",
+      "historial": "[{\"fecha\":\"28-05-2026, 12:29:25 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión.\"},{\"fecha\":\"01-06-2026, 9:47:29 a. m.\",\"usuario\":\"Jorge Cañete\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"30-06-2026, 6:59:41 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"30-06-2026, 7:06:18 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"02-07-2026, 4:04:44 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026, 8:38:59 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026, 8:39:00 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IE)\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En programación\",\"nuevo\":\"Autorizado\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IE)\\\" | Estado: \\\"En programación\\\" → \\\"Autorizado\\\"\"}]"
     },
     {
       "id": "2276",
@@ -42587,7 +42587,7 @@
       "pt": "2026-007xx",
       "zona": "Metropolitana",
       "area": "",
-      "tipo": "DESCONEXIÓN",
+      "tipo": "Desconexión (IE)",
       "inicio": "00:00",
       "fin": "07:00",
       "ssee": "Apoquindo",
@@ -42597,9 +42597,9 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026076116",
       "sodi": "353 (Enel)",
-      "estado": "En programación",
+      "estado": "En Programación",
       "fInicio": "2026-07-14",
       "fFin": "2026-07-14",
       "to1": "0.00",
@@ -42611,9 +42611,9 @@
       "sodiCorrelativo": "353 (Enel)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"353\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"DESCONEXIÓN\",\"inst\":\"SSEE Apoquindo\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Cerro Calan\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim La Gloria\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim La Gloria\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Cerro Calan\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-01 21:27:40",
-      "historial": "[{\"fecha\":\"01-07-2026, 5:27:39 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"353\",\"para\":\"Enel\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"Se requiere respaldo en MT sin afectacion de clientes\",\"tipo\":\"DESCONEXIÓN\",\"inst\":\"SSEE Apoquindo\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim Cerro Calan\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":1,\"accion\":\"Abierto INT 12 kV Alim La Gloria\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim La Gloria\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cerrado INT 12 kV Alim Cerro Calan\",\"comp\":\"\",\"ssee\":\"Apoquindo\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-08 02:07:36",
+      "historial": "[{\"fecha\":\"01-07-2026, 5:27:39 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"07-07-2026, 10:07:36 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026, 10:07:38 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IE)\"},{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026076116\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IE)\\\" | Aviso CEN: \\\"\\\" → \\\"2026076116\\\"\"},{\"fecha\":\"07-07-2026, 10:07:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2285",
@@ -42686,7 +42686,7 @@
       "pt": "2026-09328",
       "zona": "",
       "area": "ÁREA PROTECCIONES ZONAL METROPOLITANA",
-      "tipo": "DESCONEXIÓN",
+      "tipo": "Desconexión (IE)",
       "inicio": "01:00",
       "fin": "06:00",
       "ssee": "Pruebas por auditoría de protecciones asociadas a los BBCC 2A y 2B.",
@@ -42696,9 +42696,9 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026076117",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "En Programación",
       "fInicio": "2026-07-14",
       "fFin": "2026-07-14",
       "to1": "1.00",
@@ -42710,9 +42710,9 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "[]",
-      "ultima_modificacion": "2026-06-30 14:59:43",
-      "historial": "[]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-08 02:12:18",
+      "historial": "[{\"fecha\":\"07-07-2026, 10:12:19 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026, 10:12:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IE)\"},{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026076117\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IE)\\\" | Aviso CEN: \\\"\\\" → \\\"2026076117\\\"\"},{\"fecha\":\"07-07-2026, 10:12:23 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1754",
