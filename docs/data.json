@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-20T12:59:40.757706+00:00",
+  "ultima_actualizacion": "2026-07-20T15:11:54.820291+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 1594,
+  "total": 1596,
   "agenda": [
     {
       "id": "2200",
@@ -46388,13 +46388,13 @@
       "ssee": "SAN CRISTOBAL (Subestación)",
       "comp": "BCO 1A, 2A, 1B y 2B",
       "desc": "SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL",
-      "obs": "",
+      "obs": "[SUSPENDIDO. Motivo: Faena se Reprograma. Reprog: Viernes 31-07-2026] ",
       "re": "No",
       "req_ro": "Sí",
       "prog": "jvc",
       "aviso": "2026077945",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Suspendido",
       "fInicio": "2026-07-21",
       "fFin": "2026-07-21",
       "to1": "1.00",
@@ -46407,8 +46407,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-13 18:25:40",
-      "historial": "[{\"fecha\":\"17-06-2026, 5:34:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"13-07-2026, 8:26:27 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:28 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IE)\"},{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"BCO 1A, 2A, 1B y 2B\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\",\"nuevo\":\"SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IE)\\\" | Componente: \\\"\\\" → \\\"BCO 1A, 2A, 1B y 2B\\\" | Descripción: \\\"SAN CRISTOBAL ; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\\\" → \\\"SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\\\"\"},{\"fecha\":\"13-07-2026, 8:26:29 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:31 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:32 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"Falta Aviso\",\"nuevo\":\"\"}],\"detalle\":\"Aviso CEN: \\\"Falta Aviso\\\" → \\\"\\\"\"},{\"fecha\":\"13-07-2026, 8:26:39 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:41 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:13 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:14 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:16 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:39 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:39 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026077945\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026077945\\\"\"}]"
+      "ultima_modificacion": "2026-07-20 14:46:58",
+      "historial": "[{\"fecha\":\"17-06-2026, 5:34:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"13-07-2026, 8:26:27 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:28 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IE)\"},{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"BCO 1A, 2A, 1B y 2B\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\",\"nuevo\":\"SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IE)\\\" | Componente: \\\"\\\" → \\\"BCO 1A, 2A, 1B y 2B\\\" | Descripción: \\\"SAN CRISTOBAL ; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\\\" → \\\"SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL\\\"\"},{\"fecha\":\"13-07-2026, 8:26:29 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:31 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:32 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"Falta Aviso\",\"nuevo\":\"\"}],\"detalle\":\"Aviso CEN: \\\"Falta Aviso\\\" → \\\"\\\"\"},{\"fecha\":\"13-07-2026, 8:26:39 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:26:41 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:13 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:14 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:15 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:28:16 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:18 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:39 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:39 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026077945\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026077945\\\"\"},{\"fecha\":\"20-07-2026, 10:46:57 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Suspensión\",\"motivo\":\"Faena se Reprograma\"},{\"fecha\":\"20-07-2026, 10:46:57 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Suspensión\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"[SUSPENDIDO. Motivo: Faena se Reprograma. Reprog: Viernes 31-07-2026]\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Suspendido\"}],\"detalle\":\"Observación: \\\"\\\" → \\\"[SUSPENDIDO. Motivo: Faena se Reprograma. Reprog: Viernes 31-07-2026]\\\" | Estado: \\\"En Programación\\\" → \\\"Suspendido\\\"\"}]"
     },
     {
       "id": "1903",
@@ -46421,13 +46421,13 @@
       "ssee": "SAN CRISTOBAL (Subestación)",
       "comp": "BCO 2B",
       "desc": "SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL",
-      "obs": "",
+      "obs": "[SUSPENDIDO. Motivo: Faena de Reprograma. Reprog: Viernes 31-07-2026] ",
       "re": "No",
       "req_ro": "Sí",
       "prog": "jvc",
       "aviso": "2026077945",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Suspendido",
       "fInicio": "2026-07-21",
       "fFin": "2026-07-21",
       "to1": "1.00",
@@ -46440,8 +46440,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-13 18:25:34",
-      "historial": "[{\"fecha\":\"18-06-2026, 3:05:36 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"09-07-2026, 2:26:04 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"09-07-2026, 2:26:05 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IN)\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IN)\\\"\"},{\"fecha\":\"09-07-2026, 2:26:07 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:08 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"BCO 2B\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\",\"nuevo\":\"SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"BCO 2B\\\" | Descripción: \\\"SAN CRISTOBAL ; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\\\" → \\\"SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\\\"\"},{\"fecha\":\"13-07-2026, 8:27:12 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:55 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:56 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"},{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\" | TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:00 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:32 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:32 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026077945\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026077945\\\"\"},{\"fecha\":\"13-07-2026, 2:25:33 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:48:09",
+      "historial": "[{\"fecha\":\"18-06-2026, 3:05:36 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"09-07-2026, 2:26:04 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"09-07-2026, 2:26:05 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"DESCONEXIÓN\",\"nuevo\":\"Desconexión (IN)\"}],\"detalle\":\"Tipo: \\\"DESCONEXIÓN\\\" → \\\"Desconexión (IN)\\\"\"},{\"fecha\":\"09-07-2026, 2:26:07 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:08 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"BCO 2B\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\",\"nuevo\":\"SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"BCO 2B\\\" | Descripción: \\\"SAN CRISTOBAL ; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\\\" → \\\"SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL\\\"\"},{\"fecha\":\"13-07-2026, 8:27:12 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:55 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:27:56 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"},{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\" | TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"13-07-2026, 8:28:00 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:32 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 2:25:32 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026077945\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026077945\\\"\"},{\"fecha\":\"13-07-2026, 2:25:33 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:48:08 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Suspensión\",\"motivo\":\"Faena de Reprograma\"},{\"fecha\":\"20-07-2026, 10:48:09 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Suspensión\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"[SUSPENDIDO. Motivo: Faena de Reprograma. Reprog: Viernes 31-07-2026]\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Suspendido\"}],\"detalle\":\"Observación: \\\"\\\" → \\\"[SUSPENDIDO. Motivo: Faena de Reprograma. Reprog: Viernes 31-07-2026]\\\" | Estado: \\\"En Programación\\\" → \\\"Suspendido\\\"\"}]"
     },
     {
       "id": "2286",
@@ -46982,7 +46982,7 @@
       "ssee": "SAN CRISTOBAL (Subestación)",
       "comp": "MEDIDORES",
       "desc": "SAN CRISTOBAL; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA",
-      "obs": "trabajo en horario de noche",
+      "obs": "Cambiar horario a madrugada",
       "re": "No",
       "req_ro": "No",
       "prog": "jvc",
@@ -47001,8 +47001,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-14 19:38:31",
-      "historial": "[{\"fecha\":\"19-06-2026, 12:08:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"13-07-2026, 8:54:33 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:54:34 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"INTERVENCIÓN\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"MEDIDORES\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\",\"nuevo\":\"SAN CRISTOBAL; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\"}],\"detalle\":\"Tipo: \\\"INTERVENCIÓN\\\" → \\\"Intervención (IE)\\\" | Componente: \\\"\\\" → \\\"MEDIDORES\\\" | Descripción: \\\"SAN CRISTOBAL ; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\\\" → \\\"SAN CRISTOBAL; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\\\"\"},{\"fecha\":\"13-07-2026, 8:54:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:36 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:37 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"Falta Aviso\",\"nuevo\":\"2026078543\"}],\"detalle\":\"Aviso CEN: \\\"Falta Aviso\\\" → \\\"2026078543\\\"\"},{\"fecha\":\"14-07-2026, 3:37:49 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:49 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"trabajo en horario de noche\"}],\"detalle\":\"Observación: \\\"\\\" → \\\"trabajo en horario de noche\\\"\"},{\"fecha\":\"14-07-2026, 3:38:30 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 13:10:09",
+      "historial": "[{\"fecha\":\"19-06-2026, 12:08:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación de PT\",\"motivo\":\"Ingreso inicial al sistema\"},{\"fecha\":\"13-07-2026, 8:54:33 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"13-07-2026, 8:54:34 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"INTERVENCIÓN\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"MEDIDORES\"},{\"campo\":\"desc\",\"etiqueta\":\"Descripción\",\"anterior\":\"SAN CRISTOBAL ; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\",\"nuevo\":\"SAN CRISTOBAL; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\"}],\"detalle\":\"Tipo: \\\"INTERVENCIÓN\\\" → \\\"Intervención (IE)\\\" | Componente: \\\"\\\" → \\\"MEDIDORES\\\" | Descripción: \\\"SAN CRISTOBAL ; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\\\" → \\\"SAN CRISTOBAL; PLAN MANTENIMIENTO MEDIDORES FACTURACION/PMA\\\"\"},{\"fecha\":\"13-07-2026, 8:54:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:36 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:37 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"Falta Aviso\",\"nuevo\":\"2026078543\"}],\"detalle\":\"Aviso CEN: \\\"Falta Aviso\\\" → \\\"2026078543\\\"\"},{\"fecha\":\"14-07-2026, 3:37:49 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 3:37:49 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"trabajo en horario de noche\"}],\"detalle\":\"Observación: \\\"\\\" → \\\"trabajo en horario de noche\\\"\"},{\"fecha\":\"14-07-2026, 3:38:30 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 9:09:58 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 9:09:58 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"trabajo en horario de noche\",\"nuevo\":\"Cambiar horario a\"}],\"detalle\":\"Observación: \\\"trabajo en horario de noche\\\" → \\\"Cambiar horario a\\\"\"},{\"fecha\":\"20-07-2026, 9:10:02 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 9:10:03 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"Cambiar horario a\",\"nuevo\":\"Cambiar horario a madrugada\"}],\"detalle\":\"Observación: \\\"Cambiar horario a\\\" → \\\"Cambiar horario a madrugada\\\"\"},{\"fecha\":\"20-07-2026, 9:10:04 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 9:10:08 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "1543",
@@ -47240,7 +47240,7 @@
       "pt": "2026-10810",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "INTERVENCIÓN",
+      "tipo": "Intervención (IE)",
       "inicio": "09:00",
       "fin": "17:00",
       "ssee": "PUDAHUEL (Subestación)",
@@ -47252,7 +47252,7 @@
       "prog": "jvc",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "Anulada",
       "fInicio": "2026-07-23",
       "fFin": "2026-07-23",
       "to1": "0.00",
@@ -47265,8 +47265,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-07 12:51:24",
-      "historial": "[{\"fecha\":\"01-07-2026, 12:08:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026 12:51:24\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-10810.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
+      "ultima_modificacion": "2026-07-20 14:20:25",
+      "historial": "[{\"fecha\":\"01-07-2026, 12:08:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-07-2026 12:51:24\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-10810.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"20-07-2026, 10:20:24 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:20:25 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"INTERVENCIÓN\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En programación\",\"nuevo\":\"Anulada\"}],\"detalle\":\"Tipo: \\\"INTERVENCIÓN\\\" → \\\"Intervención (IE)\\\" | Estado: \\\"En programación\\\" → \\\"Anulada\\\"\"}]"
     },
     {
       "id": "1923",
@@ -47570,7 +47570,7 @@
       "pt": "2026-12243",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Sodi Terceros",
       "inicio": "08:00",
       "fin": "18:00",
       "ssee": "BATUCO (Subestación)",
@@ -47595,8 +47595,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-14 15:36:55",
-      "historial": "[{\"fecha\":\"13-07-2026, 8:57:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026 14:37:49\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12243.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"JVC\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"14-07-2026 14:37:52\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12243.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"JVC\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"14-07-2026, 11:28:52 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:28:53 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026078354\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026078354\\\"\"},{\"fecha\":\"14-07-2026, 11:28:54 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:27 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:28 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"2026078354\",\"nuevo\":\"2026078354, 2026078363\"}],\"detalle\":\"Aviso CEN: \\\"2026078354\\\" → \\\"2026078354, 2026078363\\\"\"},{\"fecha\":\"14-07-2026, 11:36:30 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:52 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:53 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"H1\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"H1\\\"\"}]"
+      "ultima_modificacion": "2026-07-20 14:22:44",
+      "historial": "[{\"fecha\":\"13-07-2026, 8:57:08 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026 14:37:49\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12243.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"JVC\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"14-07-2026 14:37:52\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12243.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"JVC\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"14-07-2026, 11:28:52 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:28:53 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026078354\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026078354\\\"\"},{\"fecha\":\"14-07-2026, 11:28:54 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:27 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:28 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"2026078354\",\"nuevo\":\"2026078354, 2026078363\"}],\"detalle\":\"Aviso CEN: \\\"2026078354\\\" → \\\"2026078354, 2026078363\\\"\"},{\"fecha\":\"14-07-2026, 11:36:30 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:52 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"14-07-2026, 11:36:53 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"H1\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"H1\\\"\"},{\"fecha\":\"20-07-2026, 10:22:34 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:22:35 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Sodi Terceros\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Sodi Terceros\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"20-07-2026, 10:22:36 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:22:37 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"No\",\"nuevo\":\"Sí\"}],\"detalle\":\"RO: \\\"No\\\" → \\\"Sí\\\"\"},{\"fecha\":\"20-07-2026, 10:22:43 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2349",
@@ -47636,7 +47636,7 @@
       "pt": "2026-12328",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Intervención (IN)",
       "inicio": "09:00",
       "fin": "17:00",
       "ssee": "CHICUREO (Subestación)",
@@ -47644,8 +47644,8 @@
       "desc": "CHICUREO ; Plan Pintura Intumescente en cables de la posición TR3 e Interconexiones",
       "obs": "",
       "re": "No",
-      "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "req_ro": "No",
+      "prog": "jvc",
       "aviso": "2026079981",
       "sodi": "",
       "estado": "En Programación",
@@ -47661,8 +47661,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-17 15:51:03",
-      "historial": "[{\"fecha\":\"15-07-2026, 12:02:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-07-2026, 11:51:00 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-07-2026, 11:51:00 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026079981\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026079981\\\"\"}]"
+      "ultima_modificacion": "2026-07-20 14:10:23",
+      "historial": "[{\"fecha\":\"15-07-2026, 12:02:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-07-2026, 11:51:00 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-07-2026, 11:51:00 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026079981\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026079981\\\"\"},{\"fecha\":\"20-07-2026 14:10:14\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12328.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"20-07-2026, 10:10:22 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:10:23 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IN)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IN)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"}]"
     },
     {
       "id": "2420",
@@ -47867,7 +47867,7 @@
       "pt": "2026-12244",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Sodi Terceros",
       "inicio": "11:00",
       "fin": "17:00",
       "ssee": "LA DEHESA (Subestación)",
@@ -47876,14 +47876,14 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-07-24",
       "fFin": "2026-07-24",
-      "to1": "0.00",
-      "to2": "0.00",
+      "to1": "1.00",
+      "to2": "1.00",
       "go1": "",
       "go2": "",
       "gop": "",
@@ -47892,8 +47892,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-13 20:59:15",
-      "historial": "[{\"fecha\":\"13-07-2026, 8:59:15 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:21:00",
+      "historial": "[{\"fecha\":\"13-07-2026, 8:59:15 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:10:32\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12244.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"20-07-2026, 10:20:53 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:20:54 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Sodi Terceros\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Sodi Terceros\\\"\"},{\"fecha\":\"20-07-2026, 10:20:56 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:20:57 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"},{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\" | TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"20-07-2026, 10:20:57 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:20:59 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2422",
@@ -48362,11 +48362,11 @@
       "pt": "2026-11688",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "INTERVENCIÓN",
+      "tipo": "Intervención (IE)",
       "inicio": "09:00",
       "fin": "18:00",
       "ssee": "SAN JOSE (Subestación)",
-      "comp": "",
+      "comp": "UTR",
       "desc": "S/E San Jose: Se realizará modificación en los parámetros de sincronizacion de UTR luego se realizará la validación de fecha y hora. Se solicitara a despacho enviar algún control disponible y se realizara movimiento de llave Local/Remoto en alguna posición en coordinación con CCT. Durante los trabajos se perderán las comunicaciones CCT durante 5 min en 3 oportunidades.",
       "obs": "",
       "re": "No",
@@ -48374,7 +48374,7 @@
       "prog": "jvc",
       "aviso": "",
       "sodi": "",
-      "estado": "En programación",
+      "estado": "En Programación",
       "fInicio": "2026-07-25",
       "fFin": "2026-07-25",
       "to1": "0.00",
@@ -48387,8 +48387,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-06 18:05:54",
-      "historial": "[{\"fecha\":\"02-07-2026, 8:59:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"06-07-2026 18:05:53\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-11688.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"j\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"06-07-2026 18:05:54\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-11688.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"j\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
+      "ultima_modificacion": "2026-07-20 14:25:14",
+      "historial": "[{\"fecha\":\"02-07-2026, 8:59:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"06-07-2026 18:05:53\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-11688.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"j\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"06-07-2026 18:05:54\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-11688.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"j\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"20-07-2026, 10:25:13 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026, 10:25:14 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"INTERVENCIÓN\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"UTR\"}],\"detalle\":\"Tipo: \\\"INTERVENCIÓN\\\" → \\\"Intervención (IE)\\\" | Componente: \\\"\\\" → \\\"UTR\\\"\"}]"
     },
     {
       "id": "2232",
@@ -48536,7 +48536,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -48552,8 +48552,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-13 20:53:54",
-      "historial": "[{\"fecha\":\"13-07-2026, 8:53:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:10:54",
+      "historial": "[{\"fecha\":\"13-07-2026, 8:53:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:10:54\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12246.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
     },
     {
       "id": "2462",
@@ -49031,7 +49031,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -49047,8 +49047,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-14 12:02:46",
-      "historial": "[{\"fecha\":\"14-07-2026, 12:02:46 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:11:01",
+      "historial": "[{\"fecha\":\"14-07-2026, 12:02:46 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:11:01\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12242.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
     },
     {
       "id": "2127",
@@ -49097,7 +49097,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -49113,8 +49113,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-15 12:04:49",
-      "historial": "[{\"fecha\":\"15-07-2026, 12:04:49 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:11:07",
+      "historial": "[{\"fecha\":\"15-07-2026, 12:04:49 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:11:07\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12329.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
     },
     {
       "id": "2439",
@@ -49130,7 +49130,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -49146,8 +49146,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-15 20:57:09",
-      "historial": "[{\"fecha\":\"15-07-2026, 8:57:09 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:11:13",
+      "historial": "[{\"fecha\":\"15-07-2026, 8:57:09 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:11:13\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12392.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
     },
     {
       "id": "2443",
@@ -49262,7 +49262,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
+      "prog": "jvc",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -49278,8 +49278,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-14 20:57:04",
-      "historial": "[{\"fecha\":\"14-07-2026, 8:57:04 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-07-20 14:11:20",
+      "historial": "[{\"fecha\":\"14-07-2026, 8:57:04 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"20-07-2026 14:11:20\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-11157.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
     },
     {
       "id": "1885",
@@ -49940,6 +49940,72 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-07-16 12:04:27",
       "historial": "[{\"fecha\":\"16-07-2026, 12:04:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
+      "id": "2466",
+      "pt": "2026-02721",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "Desconexión (IE)",
+      "inicio": "08:00",
+      "fin": "10:00",
+      "ssee": "SAN CRISTOBAL (Subestación)",
+      "comp": "BCO 1A, 2A, 1B y 2B",
+      "desc": "SAN CRISTOBAL; DESMALEZADO BCO 1A, 2A, 1B y 2B / ADICIONAL",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: Faena se Reprograma] ",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "jvc",
+      "aviso": "2026077945",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-07-31",
+      "fFin": "2026-07-31",
+      "to1": "1.00",
+      "to2": "1.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-20 14:46:58",
+      "historial": "[{\"fecha\":\"20-07-2026, 10:46:58 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
+    },
+    {
+      "id": "2467",
+      "pt": "2026-10577",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "Desconexión (IN)",
+      "inicio": "08:00",
+      "fin": "12:00",
+      "ssee": "SAN CRISTOBAL (Subestación)",
+      "comp": "BCO 2B",
+      "desc": "SAN CRISTOBAL; ELIMINACIÓN PUNTO CALIENTE BCO 2B / ADICIONAL",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: Faena de Reprograma] ",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "jvc",
+      "aviso": "2026077945",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-07-31",
+      "fFin": "2026-07-31",
+      "to1": "1.00",
+      "to2": "1.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-20 14:48:10",
+      "historial": "[{\"fecha\":\"20-07-2026, 10:48:10 a. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
     },
     {
       "id": "2387",
