@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-27T21:34:18.550931+00:00",
+  "ultima_actualizacion": "2026-07-27T22:36:06.953814+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -50123,7 +50123,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-07-28",
       "fFin": "2026-07-28",
       "to1": "0.00",
@@ -50136,8 +50136,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-13 14:44:43",
-      "historial": "[{\"fecha\":\"13-07-2026, 10:44:43 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
+      "ultima_modificacion": "2026-07-27 22:09:55",
+      "historial": "[{\"fecha\":\"13-07-2026, 10:44:43 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"27-07-2026, 6:09:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:09:55 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Autorizado\"}],\"detalle\":\"Estado: \\\"En Programación\\\" → \\\"Autorizado\\\"\"}]"
     },
     {
       "id": "2475",
@@ -50222,7 +50222,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Anulada",
       "fInicio": "2026-07-28",
       "fFin": "2026-07-28",
       "to1": "0.00",
@@ -50235,8 +50235,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-27 13:52:31",
-      "historial": "[{\"fecha\":\"09-07-2026, 12:06:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:34\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-00633.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"23-07-2026, 4:10:42 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-07-2026, 4:10:43 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IE)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"27-07-2026, 9:52:28 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:29 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"}]"
+      "ultima_modificacion": "2026-07-27 22:10:06",
+      "historial": "[{\"fecha\":\"09-07-2026, 12:06:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:34\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-00633.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"23-07-2026, 4:10:42 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-07-2026, 4:10:43 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IE)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"27-07-2026, 9:52:28 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:29 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"},{\"fecha\":\"27-07-2026, 6:10:06 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:10:06 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Anulada\"}],\"detalle\":\"Estado: \\\"En Programación\\\" → \\\"Anulada\\\"\"}]"
     },
     {
       "id": "2348",
@@ -50453,7 +50453,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Anulada",
       "fInicio": "2026-07-28",
       "fFin": "2026-07-28",
       "to1": "0.00",
@@ -50466,8 +50466,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-27 13:52:45",
-      "historial": "[{\"fecha\":\"09-07-2026, 12:03:20 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:38\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-02388.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"23-07-2026, 4:10:50 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-07-2026, 4:10:50 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IE)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"27-07-2026, 9:52:42 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:43 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"}]"
+      "ultima_modificacion": "2026-07-27 22:10:13",
+      "historial": "[{\"fecha\":\"09-07-2026, 12:03:20 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:38\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-02388.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"23-07-2026, 4:10:50 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"23-07-2026, 4:10:50 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IE)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"27-07-2026, 9:52:42 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:43 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"},{\"fecha\":\"27-07-2026, 6:10:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:10:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Anulada\"}],\"detalle\":\"Estado: \\\"En Programación\\\" → \\\"Anulada\\\"\"}]"
     },
     {
       "id": "2135",
@@ -50519,7 +50519,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Anulada",
       "fInicio": "2026-07-28",
       "fFin": "2026-07-28",
       "to1": "0.00",
@@ -50532,8 +50532,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-27 13:52:51",
-      "historial": "[{\"fecha\":\"09-07-2026, 12:07:46 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:39\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-02390.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"27-07-2026, 9:52:48 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:49 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"}]"
+      "ultima_modificacion": "2026-07-27 22:10:19",
+      "historial": "[{\"fecha\":\"09-07-2026, 12:07:46 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-07-2026 16:58:39\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-02390.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"27-07-2026, 9:52:48 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 9:52:49 a. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"nll\\\"\"},{\"fecha\":\"27-07-2026, 6:10:18 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:10:19 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Anulada\"}],\"detalle\":\"Estado: \\\"En Programación\\\" → \\\"Anulada\\\"\"}]"
     },
     {
       "id": "2155",
@@ -51535,8 +51535,8 @@
       "fin": "18:00",
       "ssee": "Caleu",
       "comp": "Bloqueo R.A",
-      "desc": "Bloqueo Reconexión - S/E Rungue -S/E Caleu - Sodi 10209401-1",
-      "obs": "",
+      "desc": "Orden de no Realimentar con tensión de vuelta previa apertura del Int  alim Rungue en coordinación con CCT. Por trabajos de Chilquinta en Linea 44kV Las Vegas-Rungue.",
+      "obs": "Bloqueo Reconexión - S/E Rungue -S/E Caleu - Sodi 10209401-1",
       "re": "No",
       "req_ro": "No",
       "prog": "jvc",
@@ -51554,9 +51554,9 @@
       "sodiCorrelativo": "419 (Enel Dx)",
       "sodiPara": "",
       "sodiDe": "",
-      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"419\",\"para\":\"Enel Dx\",\"de\":\"Jeanine Valenzuela\",\"obs\":\"\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"Caleu / Bloqueo R.A\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Orden No realimentar alim Caleu, previa apertura del Int 23kV alim Caleu, en coordinación CCT\",\"comp\":\"\",\"ssee\":\"Caleu\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cancelar orden No realimentar alim Caleu, previa apertura del Int 23kV alim Caleu, en coordinación CCT\",\"comp\":\"\",\"ssee\":\"Caleu\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-27 21:26:10",
-      "historial": "[{\"fecha\":\"27-07-2026, 4:07:14 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 5:26:07 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"419\",\"para\":\"Enel Dx\",\"de\":\"Jeanine Valenzuela\",\"obs\":\"\",\"tipo\":\"SODI DESCONEXIÓN\",\"inst\":\"Caleu / Bloqueo R.A\",\"maniobras\":[{\"bloque\":1,\"accion\":\"Orden No realimentar alim Rungue, previa apertura del Int 23kV alim Rungue, en coordinación CCT\",\"comp\":\"\",\"ssee\":\"Caleu\",\"texto\":\"\",\"isBlank\":false},{\"bloque\":3,\"accion\":\"Cancelar orden No realimentar alim Rungue, previa apertura del Int 23kV alim Rungue, en coordinación CCT\",\"comp\":\"\",\"ssee\":\"Caleu\",\"texto\":\"\",\"isBlank\":false}]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":\"\",\"inst\":\"\",\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-27 21:34:34",
+      "historial": "[{\"fecha\":\"27-07-2026, 4:07:14 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 5:26:07 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"},{\"fecha\":\"27-07-2026, 5:34:31 p. m.\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Modificación Manual\",\"motivo\":\"Actualización de datos del PT\"}]"
     },
     {
       "id": "2503",
@@ -52856,11 +52856,11 @@
       "ssee": "LOS DOMINICOS (Subestación)",
       "comp": "",
       "desc": "SE Los Dominicos / Mantenimiento preventivo a desconectadores de barra 110 KV asociados a barra N°1",
-      "obs": "[REPROGRAMACIÓN | Motivo anterior: x altas cargas en semana] ",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: x altas cargas en semana]",
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026084262 - 2026084263",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-08-02",
@@ -52875,8 +52875,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-20 21:48:57",
-      "historial": "[{\"fecha\":\"20-07-2026, 5:48:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
+      "ultima_modificacion": "2026-07-27 22:21:07",
+      "historial": "[{\"fecha\":\"20-07-2026, 5:48:54 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"27-07-2026, 6:19:57 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:19:58 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026084262 -\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"2026084262 -\\\"\"},{\"fecha\":\"27-07-2026, 6:21:05 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"27-07-2026, 6:21:05 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"2026084262 -\",\"nuevo\":\"2026084262 - 2026084263\"}],\"detalle\":\"Aviso CEN: \\\"2026084262 -\\\" → \\\"2026084262 - 2026084263\\\"\"},{\"fecha\":\"27-07-2026, 6:21:06 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2533",
