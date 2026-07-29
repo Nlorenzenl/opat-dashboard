@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-07-29T16:26:42.295113+00:00",
+  "ultima_actualizacion": "2026-07-29T17:45:16.062026+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 1815,
+  "total": 1816,
   "agenda": [
     {
       "id": "2193",
@@ -50672,7 +50672,7 @@
       "pt": "2026-01679",
       "zona": "Metropolitana",
       "area": "ÁREA PROTECCIONES ZONAL METROPOLITANA",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Desconexión (IN)",
       "inicio": "01:00",
       "fin": "05:00",
       "ssee": "CISTERNA",
@@ -50697,8 +50697,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-07-28 18:35:26",
-      "historial": "[{\"fecha\":\"07-07-2026, 2:21:09 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"21-07-2026, 8:47:25 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:26 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"2026073241\",\"nuevo\":\"\"}],\"detalle\":\"Aviso CEN: \\\"2026073241\\\" → \\\"\\\"\"},{\"fecha\":\"21-07-2026, 8:47:38 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"BUSCA\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"BUSCA\\\"\"},{\"fecha\":\"21-07-2026, 8:47:43 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:44 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"BUSCA\",\"nuevo\":\"BUSCAR NUEVA FECHA\"}],\"detalle\":\"Aviso CEN: \\\"BUSCA\\\" → \\\"BUSCAR NUEVA FECHA\\\"\"},{\"fecha\":\"28-07-2026, 2:35:26 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 2:35:26 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"\",\"nuevo\":\"Metropolitana\"}],\"detalle\":\"Zona: \\\"\\\" → \\\"Metropolitana\\\"\"}]"
+      "ultima_modificacion": "2026-07-29 17:10:37",
+      "historial": "[{\"fecha\":\"07-07-2026, 2:21:09 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"21-07-2026, 8:47:25 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:26 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"2026073241\",\"nuevo\":\"\"}],\"detalle\":\"Aviso CEN: \\\"2026073241\\\" → \\\"\\\"\"},{\"fecha\":\"21-07-2026, 8:47:38 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"BUSCA\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"BUSCA\\\"\"},{\"fecha\":\"21-07-2026, 8:47:43 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"21-07-2026, 8:47:44 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"BUSCA\",\"nuevo\":\"BUSCAR NUEVA FECHA\"}],\"detalle\":\"Aviso CEN: \\\"BUSCA\\\" → \\\"BUSCAR NUEVA FECHA\\\"\"},{\"fecha\":\"28-07-2026, 2:35:26 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 2:35:26 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"\",\"nuevo\":\"Metropolitana\"}],\"detalle\":\"Zona: \\\"\\\" → \\\"Metropolitana\\\"\"},{\"fecha\":\"29-07-2026, 1:10:37 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 1:10:37 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Desconexión (IN)\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Desconexión (IN)\\\"\"}]"
     },
     {
       "id": "2491",
@@ -50798,6 +50798,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-07-28 21:06:52",
       "historial": "[{\"fecha\":\"14-07-2026, 8:54:52 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"22-07-2026 21:13:35\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-12157.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"nll\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"28-07-2026, 2:58:21 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 2:58:22 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Desconexión (IN)\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Desconexión (IN)\\\"\"},{\"fecha\":\"28-07-2026, 2:58:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 2:58:27 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IN)\",\"nuevo\":\"Intervención (IE)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IN)\\\" → \\\"Intervención (IE)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"28-07-2026, 2:58:30 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 5:06:43 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 5:06:44 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"reemplzado por 12\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Anulada\"}],\"detalle\":\"Observación: \\\"\\\" → \\\"reemplzado por 12\\\" | Estado: \\\"En Programación\\\" → \\\"Anulada\\\"\"},{\"fecha\":\"28-07-2026, 5:06:49 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"28-07-2026, 5:06:50 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"reemplzado por 12\",\"nuevo\":\"reemplzado por 12759\"}],\"detalle\":\"Observación: \\\"reemplzado por 12\\\" → \\\"reemplzado por 12759\\\"\"},{\"fecha\":\"28-07-2026, 5:06:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
+      "id": "2690",
+      "pt": "2026-12865",
+      "zona": "Metropolitana",
+      "area": "Mtto",
+      "tipo": "Intervención (IN)",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "Santa Cruz",
+      "comp": "SALA DE CONTROL ;MAURICIO PLATONI, Cargadores de Baterias, Pablo Escobar",
+      "desc": "SANTA CRUZ; Mantenimiento preventivo básico al sistema de respaldo de CC verificando su correcto funcionamiento y verificación señalización de alarmas locales y en el sistema SCADA; PMA",
+      "obs": "Al tratarse de 2 cargadores y 2 bancos de baterías independientes, se requiere la desenergización de cada cargador (siempre manteniendo 1 de ellos en servicio) para evaluar comportamiento de bancos de baterías, es decir, se desenergiza cargador N°1 y se evalúa banco de baterías N°1, y luego se normaliza para proceder con cargador N°2 y Banco de baterías N°2",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "aas",
+      "aviso": "No requiere",
+      "sodi": "",
+      "estado": "Autorizado",
+      "fInicio": "2026-07-29",
+      "fFin": "2026-07-29",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-07-29 17:10:59",
+      "historial": "[{\"fecha\":\"29-07-2026, 12:58:52 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 12:59:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 12:59:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"SALA DE CONTROL ;MAURICIO PLATONI, Cargadores de Baterias\",\"nuevo\":\"SALA DE CONTROL ;MAURICIO PLATONI, Cargadores de Baterias, Pablo Escobar\"}],\"detalle\":\"Componente: \\\"SALA DE CONTROL ;MAURICIO PLATONI, Cargadores de Baterias\\\" → \\\"SALA DE CONTROL ;MAURICIO PLATONI, Cargadores de Baterias, Pablo Escobar\\\"\"},{\"fecha\":\"29-07-2026, 1:10:59 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 1:10:59 p. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Intervención (IE)\",\"nuevo\":\"Intervención (IN)\"}],\"detalle\":\"Tipo: \\\"Intervención (IE)\\\" → \\\"Intervención (IN)\\\"\"}]"
     },
     {
       "id": "2477",
