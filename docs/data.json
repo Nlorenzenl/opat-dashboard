@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-07T20:30:35.189809+00:00",
+  "ultima_actualizacion": "2026-08-07T21:11:23.802300+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 2007,
+  "total": 2010,
   "agenda": [
     {
       "id": "2193",
@@ -75,8 +75,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-07 16:04:03",
-      "historial": "[{\"fecha\":\"07-08-2026, 4:04:03 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-07 20:41:13",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:41:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2616",
@@ -108,8 +108,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-07 15:59:28",
-      "historial": "[{\"fecha\":\"07-08-2026, 3:59:28 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-07 20:38:00",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:37:35 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"07-08-2026, 8:38:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2200",
@@ -55119,8 +55119,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-07 16:04:37",
-      "historial": "[{\"fecha\":\"07-08-2026, 4:04:37 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-07 20:41:41",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:41:41 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2759",
@@ -61393,6 +61393,39 @@
       "historial": "[{\"fecha\":\"07-08-2026, 3:56:01 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
+      "id": "2883",
+      "pt": "2026-13989",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Zonal Metropolitana",
+      "tipo": "Desconexión (IE)",
+      "inicio": "09:00",
+      "fin": "18:00",
+      "ssee": "EL SALTO (Subestación)",
+      "comp": "",
+      "desc": "Se realizará una actualización en configuración del SCL EFACEC, debido a este trabajo se generara una perdida de comunicaciones del SCL con SCADA de aproximadamente 10 minutos , con la posibilidad de repetirse en 2 oportunidades mas por el mismo periodo de tiempo",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-15",
+      "fFin": "2026-08-15",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-08-07 20:34:49",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:34:48 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
       "id": "2385",
       "pt": "2026-12239",
       "zona": "Metropolitana",
@@ -65584,6 +65617,39 @@
       "historial": "[{\"fecha\":\"29-07-2026, 11:43:49 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"29-07-2026, 11:44:29 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:44:30 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"[REPROGRAMACIÓN | Motivo anterior: Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas] CARGA DEBE SER SOLO FIN DE SEMANA MADRUGADA HORARIO ACOTADO ( 04 A 07 HORAS)\",\"nuevo\":\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas\"}],\"detalle\":\"Observación: \\\"[REPROGRAMACIÓN | Motivo anterior: Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas] CARGA DEBE SER SOLO FIN DE SEMANA MADRUGADA HORARIO ACOTADO ( 04 A 07 HORAS)\\\" → \\\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas\\\"\"},{\"fecha\":\"29-07-2026, 11:44:32 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:44:33 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"inicio\",\"etiqueta\":\"Hora inicio\",\"anterior\":\"01:00\",\"nuevo\":\"04:00\"}],\"detalle\":\"Hora inicio: \\\"01:00\\\" → \\\"04:00\\\"\"},{\"fecha\":\"29-07-2026, 11:44:35 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:44:36 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"fin\",\"etiqueta\":\"Hora fin\",\"anterior\":\"05:00\",\"nuevo\":\"07:00\"}],\"detalle\":\"Hora fin: \\\"05:00\\\" → \\\"07:00\\\"\"},{\"fecha\":\"29-07-2026, 11:44:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:44:42 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"BUSCAR NUEVA FECHA\",\"nuevo\":\"fa\"}],\"detalle\":\"Aviso CEN: \\\"BUSCAR NUEVA FECHA\\\" → \\\"fa\\\"\"},{\"fecha\":\"29-07-2026, 11:44:43 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:44:44 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"fa\",\"nuevo\":\"Falta Aviso\"}],\"detalle\":\"Aviso CEN: \\\"fa\\\" → \\\"Falta Aviso\\\"\"},{\"fecha\":\"29-07-2026, 11:45:00 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:45:01 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas\",\"nuevo\":\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas GO PERMANENTE\"}],\"detalle\":\"Observación: \\\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas\\\" → \\\"Factibilidad para el 29-08-2026 de 04:00 a 07:00 horas GO PERMANENTE\\\"\"},{\"fecha\":\"29-07-2026, 11:45:04 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:45:04 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"29-07-2026, 11:45:06 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:45:07 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"29-07-2026, 11:45:13 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:45:14 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"gop\",\"etiqueta\":\"GOP\",\"anterior\":\"\",\"nuevo\":\"i\"}],\"detalle\":\"GOP: \\\"\\\" → \\\"i\\\"\"},{\"fecha\":\"29-07-2026, 11:45:16 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:45:16 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"go1\",\"etiqueta\":\"GO1\",\"anterior\":\"\",\"nuevo\":\"I\"},{\"campo\":\"go2\",\"etiqueta\":\"GO2\",\"anterior\":\"\",\"nuevo\":\"I\"}],\"detalle\":\"GO1: \\\"\\\" → \\\"I\\\" | GO2: \\\"\\\" → \\\"I\\\"\"},{\"fecha\":\"29-07-2026, 11:45:17 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
+      "id": "2884",
+      "pt": "2026-13549",
+      "zona": "Metropolitana",
+      "area": "Proyectos Tx Zona Sur",
+      "tipo": "Desconexión (IE)",
+      "inicio": "06:00",
+      "fin": "22:00",
+      "ssee": "Paillaco (Subestación)",
+      "comp": "",
+      "desc": "SE Paillaco NUP 5829: Seccionamiento de Línea Etapa 1, Montaje de monoposte de tubular, Montaje de pilares para cable de guardía, excavaciones F07 soporte de mufas 66 kV. Los trabajos se ejecutarán bajo desconexión y desenergización de la línea de 66 kV, considerando inicialmente el retiro provisorio del enmalle hacia el Transformador T1. El objetivo principal de esta etapa es montar el monoposte tubular e intervenir la línea para dejarla en condición pasante, manteniendo su continuidad operacional. Además, se realizará el montaje de pilares para cable de guardia y las excavaciones de la fundación F07 para el soporte de mufas de 66 kV. Finalizados los trabajos, se restituirá el enmalle hacia el T1. Se deja constancia de que el seccionamiento definitivo, el abatimiento de los conductores hacia el nuevo marco de línea mediante puentes de conexión y el retiro definitivo del enmalle hacia el T1 corresponden a la Etapa 2, la cual no forma parte del alcance del presente Permiso de Trabajo y será ejecutada posteriormente mediante un nuevo PT.",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-29",
+      "fFin": "2026-08-30",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-08-07 20:36:27",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:36:26 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
       "id": "2630",
       "pt": "2026-08771",
       "zona": "",
@@ -65714,6 +65780,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-07-29 16:07:23",
       "historial": "[{\"fecha\":\"29-07-2026, 11:55:06 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"29-07-2026, 11:55:23 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:24 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"BUSCAR NUEVA FECHA\",\"nuevo\":\"Falta Aviso\"}],\"detalle\":\"Aviso CEN: \\\"BUSCAR NUEVA FECHA\\\" → \\\"Falta Aviso\\\"\"},{\"fecha\":\"29-07-2026, 11:55:26 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:26 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"[REPROGRAMACIÓN | Motivo anterior: Factibilidad 30-08-2026 de 03:00 a 06:00 horas] SOLO DOMINGO EN HORARIO ACOTADO ( 03 A 06 HORAS)\",\"nuevo\":\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas\"}],\"detalle\":\"Observación: \\\"[REPROGRAMACIÓN | Motivo anterior: Factibilidad 30-08-2026 de 03:00 a 06:00 horas] SOLO DOMINGO EN HORARIO ACOTADO ( 03 A 06 HORAS)\\\" → \\\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas\\\"\"},{\"fecha\":\"29-07-2026, 11:55:29 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:40 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:41 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas\",\"nuevo\":\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas GO Permanente\"}],\"detalle\":\"Observación: \\\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas\\\" → \\\"Factibilidad 30-08-2026 de 03:00 a 06:00 horas GO Permanente\\\"\"},{\"fecha\":\"29-07-2026, 11:55:45 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:46 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"},{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\" | TO2: \\\"0.00\\\" → \\\"1\\\"\"},{\"fecha\":\"29-07-2026, 11:55:51 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 11:55:52 a. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"go1\",\"etiqueta\":\"GO1\",\"anterior\":\"\",\"nuevo\":\"i\"},{\"campo\":\"go2\",\"etiqueta\":\"GO2\",\"anterior\":\"\",\"nuevo\":\"i\"},{\"campo\":\"gop\",\"etiqueta\":\"GOP\",\"anterior\":\"\",\"nuevo\":\"i\"}],\"detalle\":\"GO1: \\\"\\\" → \\\"i\\\" | GO2: \\\"\\\" → \\\"i\\\" | GOP: \\\"\\\" → \\\"i\\\"\"},{\"fecha\":\"29-07-2026, 12:07:16 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 12:07:17 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"inicio\",\"etiqueta\":\"Hora inicio\",\"anterior\":\"01:00\",\"nuevo\":\"03:00\"}],\"detalle\":\"Hora inicio: \\\"01:00\\\" → \\\"03:00\\\"\"},{\"fecha\":\"29-07-2026, 12:07:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"29-07-2026, 12:07:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"fin\",\"etiqueta\":\"Hora fin\",\"anterior\":\"05:00\",\"nuevo\":\"06:00\"}],\"detalle\":\"Hora fin: \\\"05:00\\\" → \\\"06:00\\\"\"},{\"fecha\":\"29-07-2026, 12:07:20 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+    },
+    {
+      "id": "2885",
+      "pt": "2026-13684",
+      "zona": "Metropolitana",
+      "area": "ZONAL MTx TEMUCO",
+      "tipo": "Desconexión (IE)",
+      "inicio": "07:00",
+      "fin": "19:00",
+      "ssee": "Duqueco (Subestación)",
+      "comp": "",
+      "desc": "Trabajos al interior de patio Subestación Duqueco, cambio de barras superiores paño J1 cambio de chicotes entre equipos, entre interruptor 52J1 y desconectador 89J1-1, entre Interruptor 52J1 y desconectador 89J1-2, entre 89J1-2 y 89J1-3, bajadas desde barra, reforzamineto de viga del marco de linea correspondiente al paño J1 del circuito Duqueco - Los Varones, preparación de material para trabajos en Subestación Duqueco, que serán requeridas para el Proyecto aumento de capacidad mediante reemplazo de conductor de la línea 1x220 KV Charrúa Temuco (DS171 OA34). Quedan excluidos de los trabajos los chicotes que se encuentran conectados a la barra principal y a la barra de transferencia. Los trabajos se encuentran relacionados al proyecto NUP 3274",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "Nicolas Lorenzen",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-31",
+      "fFin": "2026-09-04",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-08-07 20:37:06",
+      "historial": "[{\"fecha\":\"07-08-2026, 8:37:05 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2827",
