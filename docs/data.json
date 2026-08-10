@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-10T21:28:02.667627+00:00",
+  "ultima_actualizacion": "2026-08-10T22:06:09.183272+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 2042,
+  "total": 2043,
   "agenda": [
     {
       "id": "2193",
@@ -59549,7 +59549,7 @@
       "pt": "2026-13737",
       "zona": "Metropolitana",
       "area": "ÁREA SCADA",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Intervención (IN)",
       "inicio": "10:15",
       "fin": "20:00",
       "ssee": "Tap Off Mauro (Subestación)",
@@ -59557,11 +59557,11 @@
       "desc": "NUP 4888 Tap Off El Mauro (Habilitación segundo enlace de comunicaciones Se realizará la habilitación de los enlaces perteneciente a los prestadores de servicio. Para llevar a cabo esta actividad, se efectuará ingreso tanto local como remoto a los equipos involucrados (Firewall-Redbox y Switches), con el objetivo de ejecutar las configuraciones necesarias para su correcta integración en el sistema. Adicionalmente, se realizarán pruebas de conmutación de enlace, con el fin de verificar la correcta operación y respaldo entre los enlaces disponibles, asegurando la continuidad del servicio ante eventuales fallas. Como parte de las labores, también se configurarán parámetros específicos en las RTU, permitiendo validar el correcto funcionamiento de las comunicaciones y la integridad de las señales supervisadas.",
       "obs": "",
       "re": "No",
-      "req_ro": "Sí",
+      "req_ro": "No",
       "prog": "",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Suspendido",
       "fInicio": "2026-08-11",
       "fFin": "2026-08-18",
       "to1": "0.00",
@@ -59574,8 +59574,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-05 23:16:50",
-      "historial": "[{\"fecha\":\"04-08-2026, 3:07:41 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"05-08-2026 23:16:49\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13737.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-10 21:55:35",
+      "historial": "[{\"fecha\":\"04-08-2026, 3:07:41 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"05-08-2026 23:16:49\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13737.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"10-08-2026, 5:55:24 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Suspensión\",\"motivo\":\"Falta aviso\"},{\"fecha\":\"10-08-2026, 5:55:25 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"4 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IN)\"},{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"\",\"nuevo\":\"[SUSPENDIDO. Motivo: Falta aviso. Reprog: Martes 18-08-2026]\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Suspendido\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IN)\\\" | Observación: \\\"\\\" → \\\"[SUSPENDIDO. Motivo: Falta aviso. Reprog: Martes 18-08-2026]\\\" | RO: \\\"Sí\\\" → \\\"No\\\" | Estado: \\\"En Programación\\\" → \\\"Suspendido\\\"\"},{\"fecha\":\"10-08-2026, 5:55:34 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-08-2026, 5:55:34 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"obs\",\"etiqueta\":\"Observación\",\"anterior\":\"[SUSPENDIDO. Motivo: Falta aviso. Reprog: Martes 18-08-2026]\",\"nuevo\":\"\"}],\"detalle\":\"Observación: \\\"[SUSPENDIDO. Motivo: Falta aviso. Reprog: Martes 18-08-2026]\\\" → \\\"\\\"\"}]"
     },
     {
       "id": "2784",
@@ -61538,8 +61538,8 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "Nicolas Lorenzen",
-      "aviso": "",
+      "prog": "aas",
+      "aviso": "2026091465",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-08-15",
@@ -61554,8 +61554,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-04 15:56:07",
-      "historial": "[{\"fecha\":\"04-08-2026, 3:56:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-10 22:00:55",
+      "historial": "[{\"fecha\":\"04-08-2026, 3:56:07 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-08-2026, 6:00:54 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"10-08-2026, 6:00:55 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"aas\"},{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026091465\"}],\"detalle\":\"Programador: \\\"Nicolas Lorenzen\\\" → \\\"aas\\\" | Aviso CEN: \\\"\\\" → \\\"2026091465\\\"\"}]"
     },
     {
       "id": "2913",
@@ -63635,6 +63635,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-08-04 11:54:55",
       "historial": "[{\"fecha\":\"02-08-2026, 12:01:57 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"03-08-2026 20:17:53\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-09042.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"},{\"fecha\":\"04-08-2026 11:54:55\",\"usuario\":\"Jeanine Valenzuela\",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-09042.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"jvc\"}],\"detalle\":\"Programador:  . strval($anterior) .  ->  . strval($nuevo) . \"}]"
+    },
+    {
+      "id": "2918",
+      "pt": "2026-13737",
+      "zona": "Metropolitana",
+      "area": "ÁREA SCADA",
+      "tipo": "Intervención (IN)",
+      "inicio": "10:15",
+      "fin": "20:00",
+      "ssee": "Tap Off Mauro (Subestación)",
+      "comp": "",
+      "desc": "NUP 4888 Tap Off El Mauro (Habilitación segundo enlace de comunicaciones Se realizará la habilitación de los enlaces perteneciente a los prestadores de servicio. Para llevar a cabo esta actividad, se efectuará ingreso tanto local como remoto a los equipos involucrados (Firewall-Redbox y Switches), con el objetivo de ejecutar las configuraciones necesarias para su correcta integración en el sistema. Adicionalmente, se realizarán pruebas de conmutación de enlace, con el fin de verificar la correcta operación y respaldo entre los enlaces disponibles, asegurando la continuidad del servicio ante eventuales fallas. Como parte de las labores, también se configurarán parámetros específicos en las RTU, permitiendo validar el correcto funcionamiento de las comunicaciones y la integridad de las señales supervisadas.",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: Falta aviso] ",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-18",
+      "fFin": "2026-08-25",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-08-10 21:55:26",
+      "historial": "[{\"fecha\":\"10-08-2026, 5:55:26 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
     },
     {
       "id": "2449",
