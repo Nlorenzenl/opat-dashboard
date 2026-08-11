@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-11T21:01:43.940761+00:00",
+  "ultima_actualizacion": "2026-08-11T21:55:47.376536+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 2091,
+  "total": 2092,
   "agenda": [
     {
       "id": "2193",
@@ -59648,7 +59648,7 @@
       "pt": "2026-13976",
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
-      "tipo": "Desconexión (IE)",
+      "tipo": "Intervención (IN)",
       "inicio": "00:00",
       "fin": "08:00",
       "ssee": "SAN CRISTOBAL (Subestación)",
@@ -59656,11 +59656,11 @@
       "desc": "SE San Cristobal; Reemplazo cargador de baterías 125VCC, de acuerdo a programación CAPEX",
       "obs": "",
       "re": "No",
-      "req_ro": "Sí",
-      "prog": "-",
-      "aviso": "",
+      "req_ro": "No",
+      "prog": "aas",
+      "aviso": "No requiere",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-08-12",
       "fFin": "2026-08-13",
       "to1": "0.00",
@@ -59673,8 +59673,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 20:44:01",
-      "historial": "[{\"fecha\":\"11-08-2026, 8:44:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-11 21:37:43",
+      "historial": "[{\"fecha\":\"11-08-2026, 8:44:00 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:37:33 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:37:34 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"-\",\"nuevo\":\"aas\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Autorizado\"}],\"detalle\":\"Programador: \\\"-\\\" → \\\"aas\\\" | Estado: \\\"En Programación\\\" → \\\"Autorizado\\\"\"},{\"fecha\":\"11-08-2026, 5:37:35 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:37:35 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"No requiere\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"No requiere\\\"\"},{\"fecha\":\"11-08-2026, 5:37:42 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:37:43 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IN)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IN)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"}]"
     },
     {
       "id": "2957",
@@ -60005,6 +60005,39 @@
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
       "ultima_modificacion": "2026-08-11 18:40:25",
       "historial": "[{\"fecha\":\"11-08-2026, 2:11:13 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 2:40:13 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 2:40:14 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"tipo\",\"etiqueta\":\"Tipo\",\"anterior\":\"Desconexión (IE)\",\"nuevo\":\"Intervención (IN)\"},{\"campo\":\"req_ro\",\"etiqueta\":\"RO\",\"anterior\":\"Sí\",\"nuevo\":\"No\"}],\"detalle\":\"Tipo: \\\"Desconexión (IE)\\\" → \\\"Intervención (IN)\\\" | RO: \\\"Sí\\\" → \\\"No\\\"\"},{\"fecha\":\"11-08-2026, 2:40:21 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 2:40:22 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"3 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"CCAA\"},{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"-\",\"nuevo\":\"aas\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Autorizado\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"CCAA\\\" | Programador: \\\"-\\\" → \\\"aas\\\" | Estado: \\\"En Programación\\\" → \\\"Autorizado\\\"\"},{\"fecha\":\"11-08-2026, 2:40:24 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 2:40:25 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"No requiere\"}],\"detalle\":\"Aviso CEN: \\\"\\\" → \\\"No requiere\\\"\"}]"
+    },
+    {
+      "id": "2967",
+      "pt": "2026-13557",
+      "zona": "Metropolitana",
+      "area": "Proyecto",
+      "tipo": "Desconexión (IN)",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "El Guindal",
+      "comp": "",
+      "desc": "NUP 5515 S/E El Guindal: Apertura del circuito N°1 Línea 2x110kV Sauzal-Codegua entre las torres N°43 y N°44, hacia estructura SPAX provisoria P1, en relación con actividades de Seccionamiento para Nueva Subestación Seccionadora el Guindal.",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "nll",
+      "aviso": "No requiere",
+      "sodi": "441 (Transelec)",
+      "estado": "En Programación",
+      "fInicio": "2026-08-12",
+      "fFin": "2026-08-12",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "true",
+      "sodiCorrelativo": "441 (Transelec)",
+      "sodiPara": "",
+      "sodiDe": "",
+      "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":true,\"correlativo\":\"441\",\"para\":\"Transelec\",\"de\":\"Nicolas Lorenzen Leal\",\"obs\":\"\",\"tipo\":\"Sodi Terceros\",\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
+      "ultima_modificacion": "2026-08-11 21:33:05",
+      "historial": "[{\"fecha\":\"11-08-2026, 5:33:05 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
     },
     {
       "id": "2749",
@@ -60416,14 +60449,14 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "",
+      "prog": "aas",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-08-13",
       "fFin": "2026-08-13",
-      "to1": "0.00",
-      "to2": "0.00",
+      "to1": "1.00",
+      "to2": "1.00",
       "go1": "",
       "go2": "",
       "gop": "",
@@ -60432,8 +60465,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:51:22",
-      "historial": "[{\"fecha\":\"10-08-2026, 8:38:16 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:51:22\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-14072.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:41:45",
+      "historial": "[{\"fecha\":\"10-08-2026, 8:38:16 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:51:22\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-14072.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:41:39 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:41:40 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"aas\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"aas\\\"\"},{\"fecha\":\"11-08-2026, 5:41:45 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:41:45 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"to1\",\"etiqueta\":\"TO1\",\"anterior\":\"0.00\",\"nuevo\":\"1\"},{\"campo\":\"to2\",\"etiqueta\":\"TO2\",\"anterior\":\"0.00\",\"nuevo\":\"1\"}],\"detalle\":\"TO1: \\\"0.00\\\" → \\\"1\\\" | TO2: \\\"0.00\\\" → \\\"1\\\"\"}]"
     },
     {
       "id": "2689",
@@ -63474,7 +63507,7 @@
     {
       "id": "2842",
       "pt": "2026-13807",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ÁREA SCADA",
       "tipo": "Desconexión (IE)",
       "inicio": "08:00",
@@ -63501,8 +63534,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:23",
-      "historial": "[{\"fecha\":\"05-08-2026, 9:19:19 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:23\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13807.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:43:16",
+      "historial": "[{\"fecha\":\"05-08-2026, 9:19:19 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:23\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13807.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:43:15 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:43:16 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2856",
@@ -63540,7 +63573,7 @@
     {
       "id": "2880",
       "pt": "2026-13986",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ZONAL MTx CHILOE",
       "tipo": "Desconexión (IE)",
       "inicio": "08:00",
@@ -63567,8 +63600,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-07 16:02:50",
-      "historial": "[{\"fecha\":\"07-08-2026, 4:02:50 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"}]"
+      "ultima_modificacion": "2026-08-11 21:43:27",
+      "historial": "[{\"fecha\":\"07-08-2026, 4:02:50 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:43:26 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:43:26 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2914",
@@ -63738,7 +63771,7 @@
     {
       "id": "2841",
       "pt": "2026-13556",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ÁREA MM Tx",
       "tipo": "Desconexión (IE)",
       "inicio": "08:30",
@@ -63765,8 +63798,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:27",
-      "historial": "[{\"fecha\":\"05-08-2026, 9:18:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:27\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13556.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:50:49",
+      "historial": "[{\"fecha\":\"05-08-2026, 9:18:51 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:27\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13556.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:50:48 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:50:49 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2561",
@@ -63870,7 +63903,7 @@
     {
       "id": "2838",
       "pt": "2026-13086",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ZONAL MTx PTO. MONTT",
       "tipo": "Desconexión (IE)",
       "inicio": "09:00",
@@ -63897,13 +63930,13 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:33",
-      "historial": "[{\"fecha\":\"05-08-2026, 9:17:12 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:33\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13086.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:43:36",
+      "historial": "[{\"fecha\":\"05-08-2026, 9:17:12 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:33\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13086.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:43:35 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:43:35 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2840",
       "pt": "2026-13087",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ZONAL MTx PTO. MONTT",
       "tipo": "Desconexión (IE)",
       "inicio": "09:00",
@@ -63930,13 +63963,13 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:35",
-      "historial": "[{\"fecha\":\"05-08-2026, 9:18:23 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:35\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13087.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:43:41",
+      "historial": "[{\"fecha\":\"05-08-2026, 9:18:23 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:35\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13087.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:43:41 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:43:41 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2845",
       "pt": "2026-13461",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ÁREA MM Tx",
       "tipo": "Desconexión (IE)",
       "inicio": "09:00",
@@ -63963,8 +63996,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:34",
-      "historial": "[{\"fecha\":\"06-08-2026, 12:04:47 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:34\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13461.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:50:21",
+      "historial": "[{\"fecha\":\"06-08-2026, 12:04:47 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:34\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13461.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:50:21 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:50:21 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2352",
@@ -64046,7 +64079,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "Sí",
-      "prog": "",
+      "prog": "aas",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -64062,8 +64095,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:37",
-      "historial": "[{\"fecha\":\"10-08-2026, 3:02:01 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:37\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-14059.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:53:19",
+      "historial": "[{\"fecha\":\"10-08-2026, 3:02:01 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:37\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-14059.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:53:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:53:19 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"aas\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"aas\\\"\"}]"
     },
     {
       "id": "2401",
@@ -64206,15 +64239,15 @@
       "inicio": "10:15",
       "fin": "20:00",
       "ssee": "Tap Off Mauro (Subestación)",
-      "comp": "",
+      "comp": "Perdida de comunicaciones SCADA",
       "desc": "NUP 4888 Tap Off El Mauro (Habilitación segundo enlace de comunicaciones Se realizará la habilitación de los enlaces perteneciente a los prestadores de servicio. Para llevar a cabo esta actividad, se efectuará ingreso tanto local como remoto a los equipos involucrados (Firewall-Redbox y Switches), con el objetivo de ejecutar las configuraciones necesarias para su correcta integración en el sistema. Adicionalmente, se realizarán pruebas de conmutación de enlace, con el fin de verificar la correcta operación y respaldo entre los enlaces disponibles, asegurando la continuidad del servicio ante eventuales fallas. Como parte de las labores, también se configurarán parámetros específicos en las RTU, permitiendo validar el correcto funcionamiento de las comunicaciones y la integridad de las señales supervisadas.",
-      "obs": "[REPROGRAMACIÓN | Motivo anterior: Falta aviso] ",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: Falta aviso]",
       "re": "No",
       "req_ro": "No",
-      "prog": "",
-      "aviso": "",
+      "prog": "aas",
+      "aviso": "2026092434",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-08-18",
       "fFin": "2026-08-25",
       "to1": "0.00",
@@ -64227,8 +64260,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-10 21:55:26",
-      "historial": "[{\"fecha\":\"10-08-2026, 5:55:26 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"}]"
+      "ultima_modificacion": "2026-08-11 21:49:15",
+      "historial": "[{\"fecha\":\"10-08-2026, 5:55:26 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Creación por Reprogramación\",\"motivo\":\"Proviene de suspensión del PT original.\"},{\"fecha\":\"11-08-2026, 5:48:56 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:48:56 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Autosave inteligente\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"prog\",\"etiqueta\":\"Programador\",\"anterior\":\"\",\"nuevo\":\"aas\"},{\"campo\":\"estado\",\"etiqueta\":\"Estado\",\"anterior\":\"En Programación\",\"nuevo\":\"Autorizado\"}],\"detalle\":\"Programador: \\\"\\\" → \\\"aas\\\" | Estado: \\\"En Programación\\\" → \\\"Autorizado\\\"\"},{\"fecha\":\"11-08-2026, 5:49:14 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:49:15 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"2 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"comp\",\"etiqueta\":\"Componente\",\"anterior\":\"\",\"nuevo\":\"Perdida de comunicaciones SCADA\"},{\"campo\":\"aviso\",\"etiqueta\":\"Aviso CEN\",\"anterior\":\"\",\"nuevo\":\"2026092434\"}],\"detalle\":\"Componente: \\\"\\\" → \\\"Perdida de comunicaciones SCADA\\\" | Aviso CEN: \\\"\\\" → \\\"2026092434\\\"\"}]"
     },
     {
       "id": "2449",
@@ -64299,7 +64332,7 @@
     {
       "id": "2851",
       "pt": "2026-13869",
-      "zona": "Metropolitana",
+      "zona": "Zona Sur",
       "area": "ZONAL MTx PTO. MONTT",
       "tipo": "Desconexión (IE)",
       "inicio": "08:00",
@@ -64326,8 +64359,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:53:44",
-      "historial": "[{\"fecha\":\"06-08-2026, 3:09:03 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:44\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13869.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-11 21:51:57",
+      "historial": "[{\"fecha\":\"06-08-2026, 3:09:03 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:53:44\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13869.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"11-08-2026, 5:51:56 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026, 5:51:56 p. m.\",\"usuario\":\"Alexis Aedo\",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Sur\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Sur\\\"\"}]"
     },
     {
       "id": "2901",
