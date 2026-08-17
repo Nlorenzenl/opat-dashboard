@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-17T14:20:47.110488+00:00",
+  "ultima_actualizacion": "2026-08-17T14:48:47.981684+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -89082,7 +89082,7 @@
     {
       "id": "2686",
       "pt": "2026-13259",
-      "zona": "Metropolitana",
+      "zona": "Zona Norte",
       "area": "TRANSEMEL",
       "tipo": "Desconexión (IE)",
       "inicio": "08:00",
@@ -89109,8 +89109,8 @@
       "sodiPara": "",
       "sodiDe": "",
       "gm": "{\"maniobras\":[],\"sodis\":[{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]},{\"activa\":false,\"correlativo\":\"\",\"para\":\"\",\"de\":\"\",\"obs\":\"\",\"tipo\":null,\"inst\":null,\"maniobras\":[]}]}",
-      "ultima_modificacion": "2026-08-11 11:55:04",
-      "historial": "[{\"fecha\":\"29-07-2026, 4:03:57 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:55:04\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13259.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"}]"
+      "ultima_modificacion": "2026-08-17 14:29:56",
+      "historial": "[{\"fecha\":\"29-07-2026, 4:03:57 p. m.\",\"usuario\":\"Nicolas Lorenzen\",\"accion\":\"Ingreso inicial al sistema\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"11-08-2026 11:55:04\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Edicion rapida en agenda\",\"motivo\":\"Cambio guardado desde celda rapida del PT 2026-13259.\",\"cambios\":[{\"campo\":\"programador\",\"etiqueta\":\"Programador\",\"anterior\":\"Nicolas Lorenzen\",\"nuevo\":\"\"}],\"detalle\":\"Programador: Nicolas Lorenzen -> \"},{\"fecha\":\"17-08-2026, 10:29:53 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"Guardado desde ventana del PT.\"},{\"fecha\":\"17-08-2026, 10:29:54 a. m.\",\"usuario\":\"Jorge Cañete \",\"accion\":\"Actualización de datos del PT\",\"motivo\":\"1 campo(s) modificado(s).\",\"cambios\":[{\"campo\":\"zona\",\"etiqueta\":\"Zona\",\"anterior\":\"Metropolitana\",\"nuevo\":\"Zona Norte\"}],\"detalle\":\"Zona: \\\"Metropolitana\\\" → \\\"Zona Norte\\\"\"}]"
     },
     {
       "id": "2687",
