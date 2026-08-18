@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-18T17:01:42.560753+00:00",
+  "ultima_actualizacion": "2026-08-18T17:33:33.874635+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 2974,
+  "total": 2976,
   "agenda": [
     {
       "id": "2193",
@@ -59235,7 +59235,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 13:52:21",
+      "ultima_modificacion": "2026-08-18 17:02:20",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -64301,7 +64301,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:03:19",
+      "ultima_modificacion": "2026-08-18 17:15:27",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69299,7 +69299,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:02:59",
+      "ultima_modificacion": "2026-08-18 17:17:42",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69435,7 +69435,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:02:39",
+      "ultima_modificacion": "2026-08-18 17:15:47",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69503,7 +69503,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:02:19",
+      "ultima_modificacion": "2026-08-18 17:18:43",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69537,7 +69537,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:06:05",
+      "ultima_modificacion": "2026-08-18 17:15:03",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69707,7 +69707,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:05:05",
+      "ultima_modificacion": "2026-08-18 17:18:02",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -70965,7 +70965,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:05:25",
+      "ultima_modificacion": "2026-08-18 17:18:23",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -78315,6 +78315,40 @@
       "recursos_operacion": "[]"
     },
     {
+      "id": "3850",
+      "pt": "2026-13990",
+      "zona": "Zona Norte",
+      "area": "GERENCIA ZONAL TRANSMISIÓN NORTE",
+      "tipo": "Sin Condiciones",
+      "inicio": "18:00",
+      "fin": "08:00",
+      "ssee": "Kimal (Subestación)",
+      "comp": "",
+      "desc": "SE KIMAL: Realizar medición termográfica a todos los paños de la SE, para revisar torque de los nuevos equipos de las diagonal 1, 2, 3, 4, 5, 6, además inspeccionar el herraje y paleta de conexionado entre los equipos y la LAT.",
+      "obs": "",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "Centro de Control de Transmisión",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-10",
+      "fFin": "2026-08-21",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-08-18 17:03:11",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
       "id": "3239",
       "pt": "2026-13836",
       "zona": "Zona Norte",
@@ -78343,7 +78377,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 13:54:16",
+      "ultima_modificacion": "2026-08-18 17:16:13",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -78377,7 +78411,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:04:25",
+      "ultima_modificacion": "2026-08-18 17:02:44",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -78819,7 +78853,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:05:45",
+      "ultima_modificacion": "2026-08-18 17:17:22",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -81029,7 +81063,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:03:44",
+      "ultima_modificacion": "2026-08-18 17:16:37",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -81981,7 +82015,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:04:05",
+      "ultima_modificacion": "2026-08-18 17:03:31",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -84463,7 +84497,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 13:50:40",
+      "ultima_modificacion": "2026-08-18 17:02:00",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -87251,7 +87285,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-18 14:01:54",
+      "ultima_modificacion": "2026-08-18 17:16:58",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -91162,6 +91196,40 @@
       "sodiPara": "",
       "sodiDe": "",
       "ultima_modificacion": "2026-08-18 16:16:58",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "3851",
+      "pt": "2026-14490",
+      "zona": "Metropolitana",
+      "area": "TRANSEMEL",
+      "tipo": "Sin Condiciones",
+      "inicio": "08:00",
+      "fin": "19:00",
+      "ssee": "Condores (Subestación)",
+      "comp": "",
+      "desc": "Inspección a trabajos a realizar al interior del Patio 13,8 Kv, SE Cóndores",
+      "obs": "",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "Centro de Control de Transmisión",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-19",
+      "fFin": "2026-08-26",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-08-18 17:07:07",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
