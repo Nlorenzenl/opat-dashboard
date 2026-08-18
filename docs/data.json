@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-18T18:26:09.367730+00:00",
+  "ultima_actualizacion": "2026-08-18T19:05:18.048222+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 2976,
+  "total": 2977,
   "agenda": [
     {
       "id": "2193",
@@ -90924,6 +90924,40 @@
       "sodiPara": "",
       "sodiDe": "",
       "ultima_modificacion": "2026-08-14 16:47:46",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "3852",
+      "pt": "2026-13186",
+      "zona": "Metropolitana",
+      "area": "",
+      "tipo": "Intervención (IN)",
+      "inicio": "01:00",
+      "fin": "05:00",
+      "ssee": "SSEE Apoquindo",
+      "comp": "INT 12 kV Alim El Alba",
+      "desc": "Pruebas de protecciones asociadas al Alimentador 12 kV El Alba; Plan Auditoría SEC.",
+      "obs": "",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "nll",
+      "aviso": "DI2026092510",
+      "sodi": "",
+      "estado": "Autorizado",
+      "fInicio": "2026-08-19",
+      "fFin": "2026-08-19",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-08-18 18:37:53",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
