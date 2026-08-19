@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-19T22:09:53.885872+00:00",
+  "ultima_actualizacion": "2026-08-19T22:37:31.022900+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 3106,
+  "total": 3107,
   "agenda": [
     {
       "id": "2193",
@@ -55597,7 +55597,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:36:03",
+      "ultima_modificacion": "2026-08-19 22:11:48",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -60153,7 +60153,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:39:55",
+      "ultima_modificacion": "2026-08-19 22:12:09",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -64675,7 +64675,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:53:15",
+      "ultima_modificacion": "2026-08-19 22:23:08",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69775,7 +69775,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:52:55",
+      "ultima_modificacion": "2026-08-19 22:14:25",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69911,7 +69911,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:42:40",
+      "ultima_modificacion": "2026-08-19 22:21:49",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -69979,7 +69979,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 13:55:35",
+      "ultima_modificacion": "2026-08-19 22:14:45",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -70013,7 +70013,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:53:36",
+      "ultima_modificacion": "2026-08-19 22:22:48",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -71441,7 +71441,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 13:57:01",
+      "ultima_modificacion": "2026-08-19 22:21:28",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -78853,7 +78853,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:40:15",
+      "ultima_modificacion": "2026-08-19 22:13:14",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -78887,7 +78887,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:41:47",
+      "ultima_modificacion": "2026-08-19 22:12:54",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -79329,7 +79329,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:52:26",
+      "ultima_modificacion": "2026-08-19 22:22:14",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -81471,7 +81471,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:41:18",
+      "ultima_modificacion": "2026-08-19 22:10:06",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -81539,7 +81539,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:39:34",
+      "ultima_modificacion": "2026-08-19 22:11:07",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -81709,7 +81709,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:37:05",
+      "ultima_modificacion": "2026-08-19 22:13:39",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -82491,7 +82491,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 13:30:54",
+      "ultima_modificacion": "2026-08-19 22:12:33",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -85075,7 +85075,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:37:30",
+      "ultima_modificacion": "2026-08-19 22:11:28",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -89835,7 +89835,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:41:02",
+      "ultima_modificacion": "2026-08-19 22:10:26",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -90617,7 +90617,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-19 16:42:20",
+      "ultima_modificacion": "2026-08-19 22:10:47",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -94630,6 +94630,40 @@
       "sodiPara": "",
       "sodiDe": "",
       "ultima_modificacion": "2026-08-17 14:00:04",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "3982",
+      "pt": "2026-14688",
+      "zona": "Metropolitana",
+      "area": "CGE Dx",
+      "tipo": "Intervención (IN)",
+      "inicio": "05:00",
+      "fin": "21:00",
+      "ssee": "Curacavi",
+      "comp": "R.A  Alimentadores (Local)",
+      "desc": "R.A Local de alimentadores  SE Curacaví",
+      "obs": "SODI 360768 de CGE Dx",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "aas",
+      "aviso": "No requiere",
+      "sodi": "",
+      "estado": "Autorizado",
+      "fInicio": "2026-08-20",
+      "fFin": "2026-08-20",
+      "to1": "0.50",
+      "to2": "0.50",
+      "go1": "i",
+      "go2": "i",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-08-19 22:29:12",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
