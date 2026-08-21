@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-21T18:14:00.149919+00:00",
+  "ultima_actualizacion": "2026-08-21T19:18:10.060478+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -100023,7 +100023,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-08-22",
       "fFin": "2026-08-22",
       "to1": "1.00",
@@ -100035,7 +100035,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-21 18:07:37",
+      "ultima_modificacion": "2026-08-21 18:24:49",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -100057,7 +100057,7 @@
       "prog": "nll",
       "aviso": "",
       "sodi": "431 (Enel)",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-08-22",
       "fFin": "2026-08-22",
       "to1": "1.00",
@@ -100069,7 +100069,7 @@
       "sodiCorrelativo": "431 (Enel)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-21 14:23:30",
+      "ultima_modificacion": "2026-08-21 18:24:41",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
