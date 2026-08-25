@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-25T11:45:06.970864+00:00",
+  "ultima_actualizacion": "2026-08-25T12:03:40.219650+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 3383,
+  "total": 3384,
   "agenda": [
     {
       "id": "2193",
@@ -106938,6 +106938,40 @@
       "sodiPara": "",
       "sodiDe": "",
       "ultima_modificacion": "2026-08-14 16:09:54",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "4259",
+      "pt": "2026-14759",
+      "zona": "Metropolitana",
+      "area": "Área Mtto Mayor Zonal Metropolitana",
+      "tipo": "Desconexión (IN)",
+      "inicio": "08:00",
+      "fin": "18:00",
+      "ssee": "ALTO JAHUEL (Subestación)",
+      "comp": "",
+      "desc": "Retiro de armario OPLAT fuera de servicio dirección Almendros, montaje de gabinetes tanto en caseta almendros 1 como almendros 2, alimentación en alterna y continua de estos y tendido de flexible en patio para comunicar gabinetes montados",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "-",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-08-27",
+      "fFin": "2026-08-27",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-08-25 12:02:02",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
