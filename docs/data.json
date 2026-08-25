@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-08-25T19:51:53.068935+00:00",
+  "ultima_actualizacion": "2026-08-25T20:11:23.737437+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -106336,8 +106336,8 @@
       "zona": "Metropolitana",
       "area": "Área Mtto Zonal Metropolitana",
       "tipo": "Desconexión (IN)",
-      "inicio": "03:00",
-      "fin": "04:00",
+      "inicio": "04:00",
+      "fin": "05:00",
       "ssee": "Lampa",
       "comp": "Arranque N°1",
       "desc": "NUEVA LAMPA ; MANT. DESC. 220 KV NUEVA LAMPA-POLPAICO C1 L/LÍNEA Y L/INT /PMA",
@@ -106359,7 +106359,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-25 19:37:47",
+      "ultima_modificacion": "2026-08-25 20:07:14",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -106672,7 +106672,7 @@
     },
     {
       "id": "4222",
-      "pt": "2026-14952",
+      "pt": "2026-15181",
       "zona": "Metropolitana",
       "area": "ÁREA CCT",
       "tipo": "Sodi Terceros",
@@ -106699,7 +106699,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-25 19:40:23",
+      "ultima_modificacion": "2026-08-25 19:52:21",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -106774,7 +106774,7 @@
     },
     {
       "id": "4049",
-      "pt": "2026-14744",
+      "pt": "2026-15183",
       "zona": "Metropolitana",
       "area": "ÁREA CCT",
       "tipo": "Sodi Terceros",
@@ -106801,14 +106801,14 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-25 19:38:52",
+      "ultima_modificacion": "2026-08-25 19:54:17",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
     },
     {
       "id": "4051",
-      "pt": "2026-14741",
+      "pt": "2026-15184",
       "zona": "Metropolitana",
       "area": "ÁREA CCT",
       "tipo": "Sodi Terceros",
@@ -106835,7 +106835,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-25 19:39:29",
+      "ultima_modificacion": "2026-08-25 19:57:55",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
