@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-09-02T14:47:47.381173+00:00",
+  "ultima_actualizacion": "2026-09-02T18:06:54.356523+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 4116,
+  "total": 4117,
   "agenda": [
     {
       "id": "2193",
@@ -127303,7 +127303,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-08-21 19:44:53",
+      "ultima_modificacion": "2026-09-02 15:06:35",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132472,6 +132472,40 @@
       "sodiPara": "",
       "sodiDe": "",
       "ultima_modificacion": "2026-08-28 14:14:54",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "4992",
+      "pt": "2026-15901",
+      "zona": "Metropolitana",
+      "area": "ÁREA CCT",
+      "tipo": "Desconexión (IN)",
+      "inicio": "10:00",
+      "fin": "18:00",
+      "ssee": "LO PRADO (Subestación)",
+      "comp": "",
+      "desc": "SODI 12987 - SE Lo prado - Solicitud de acceso",
+      "obs": "",
+      "re": "No",
+      "req_ro": "Sí",
+      "prog": "-",
+      "aviso": "",
+      "sodi": "",
+      "estado": "En Programación",
+      "fInicio": "2026-09-09",
+      "fFin": "2026-09-09",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "",
+      "go2": "",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-09-02 15:02:12",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
