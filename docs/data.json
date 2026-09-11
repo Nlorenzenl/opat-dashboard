@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-09-11T14:40:09.453442+00:00",
+  "ultima_actualizacion": "2026-09-11T17:53:34.208733+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -10,7 +10,7 @@
     "empresa": "sts",
     "correo": null
   },
-  "total": 4842,
+  "total": 4843,
   "agenda": [
     {
       "id": "2193",
@@ -132029,7 +132029,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:05:29",
+      "ultima_modificacion": "2026-09-11 15:00:08",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132437,7 +132437,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:05:15",
+      "ultima_modificacion": "2026-09-11 14:59:55",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132607,7 +132607,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:05:02",
+      "ultima_modificacion": "2026-09-11 14:59:42",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132777,7 +132777,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:04:46",
+      "ultima_modificacion": "2026-09-11 14:59:29",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132913,7 +132913,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:04:32",
+      "ultima_modificacion": "2026-09-11 14:59:16",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -132981,7 +132981,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:04:05",
+      "ultima_modificacion": "2026-09-11 14:58:49",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133015,7 +133015,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:04:19",
+      "ultima_modificacion": "2026-09-11 14:59:03",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133253,7 +133253,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:00:31",
+      "ultima_modificacion": "2026-09-11 14:56:38",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133355,7 +133355,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:59:34",
+      "ultima_modificacion": "2026-09-11 14:54:10",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133389,7 +133389,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 15:39:58",
+      "ultima_modificacion": "2026-09-11 14:55:03",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133457,7 +133457,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:02:05",
+      "ultima_modificacion": "2026-09-11 14:58:23",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133525,7 +133525,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:00:44",
+      "ultima_modificacion": "2026-09-11 14:53:05",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133559,7 +133559,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:03:52",
+      "ultima_modificacion": "2026-09-11 14:58:10",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133593,7 +133593,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 14:51:12",
+      "ultima_modificacion": "2026-09-11 14:55:16",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133661,7 +133661,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:00:58",
+      "ultima_modificacion": "2026-09-11 14:54:23",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133695,7 +133695,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:58:13",
+      "ultima_modificacion": "2026-09-11 14:58:36",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133729,7 +133729,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:02:32",
+      "ultima_modificacion": "2026-09-11 14:57:17",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133763,7 +133763,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:02:18",
+      "ultima_modificacion": "2026-09-11 14:56:25",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133797,7 +133797,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:59:07",
+      "ultima_modificacion": "2026-09-11 14:53:31",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133831,7 +133831,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:01:24",
+      "ultima_modificacion": "2026-09-11 14:56:51",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133865,7 +133865,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:01:11",
+      "ultima_modificacion": "2026-09-11 14:57:04",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133899,7 +133899,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:02:59",
+      "ultima_modificacion": "2026-09-11 14:57:43",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -133933,7 +133933,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:59:48",
+      "ultima_modificacion": "2026-09-11 14:55:42",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134001,7 +134001,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:01:51",
+      "ultima_modificacion": "2026-09-11 14:55:58",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134035,7 +134035,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 12:03:39",
+      "ultima_modificacion": "2026-09-11 14:57:56",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134069,7 +134069,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-08 23:00:35",
+      "ultima_modificacion": "2026-09-11 14:57:30",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134103,7 +134103,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 15:42:29",
+      "ultima_modificacion": "2026-09-11 14:56:11",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134885,7 +134885,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:58:00",
+      "ultima_modificacion": "2026-09-11 14:52:51",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -134919,7 +134919,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:57:47",
+      "ultima_modificacion": "2026-09-11 14:52:38",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -135176,7 +135176,7 @@
       "obs": "",
       "re": "No",
       "req_ro": "No",
-      "prog": "PT Suspendido",
+      "prog": "PT Vigente",
       "aviso": "",
       "sodi": "",
       "estado": "En Programación",
@@ -135191,7 +135191,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:57:33",
+      "ultima_modificacion": "2026-09-11 14:52:25",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -135395,7 +135395,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:57:20",
+      "ultima_modificacion": "2026-09-11 14:52:12",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -136109,7 +136109,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:57:06",
+      "ultima_modificacion": "2026-09-11 14:51:59",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -136925,7 +136925,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:56:53",
+      "ultima_modificacion": "2026-09-11 14:51:46",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137435,7 +137435,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:56:39",
+      "ultima_modificacion": "2026-09-11 14:51:33",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137469,7 +137469,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:52:34",
+      "ultima_modificacion": "2026-09-11 14:49:18",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137503,7 +137503,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:53:28",
+      "ultima_modificacion": "2026-09-11 14:48:52",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137571,7 +137571,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:53:55",
+      "ultima_modificacion": "2026-09-11 14:50:11",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137639,7 +137639,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:53:01",
+      "ultima_modificacion": "2026-09-11 14:51:03",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137945,7 +137945,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 15:36:34",
+      "ultima_modificacion": "2026-09-11 14:47:59",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -137979,7 +137979,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:55:16",
+      "ultima_modificacion": "2026-09-11 14:50:24",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138013,7 +138013,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 11:39:43",
+      "ultima_modificacion": "2026-09-11 14:48:13",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138047,7 +138047,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:51:54",
+      "ultima_modificacion": "2026-09-11 14:48:26",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138081,7 +138081,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:52:20",
+      "ultima_modificacion": "2026-09-11 14:48:39",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138115,7 +138115,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:54:48",
+      "ultima_modificacion": "2026-09-11 14:49:31",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138183,7 +138183,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-08 15:21:03",
+      "ultima_modificacion": "2026-09-11 14:46:24",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138251,7 +138251,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:55:02",
+      "ultima_modificacion": "2026-09-11 14:49:58",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138421,7 +138421,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:55:59",
+      "ultima_modificacion": "2026-09-11 14:50:50",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138455,7 +138455,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:56:12",
+      "ultima_modificacion": "2026-09-11 14:49:45",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138523,7 +138523,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:50:27",
+      "ultima_modificacion": "2026-09-11 14:51:16",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138557,7 +138557,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:52:07",
+      "ultima_modificacion": "2026-09-11 14:50:37",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138625,7 +138625,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:54:35",
+      "ultima_modificacion": "2026-09-11 14:47:33",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138727,7 +138727,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:55:42",
+      "ultima_modificacion": "2026-09-11 14:47:46",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138897,7 +138897,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:53:41",
+      "ultima_modificacion": "2026-09-11 14:49:05",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -138965,7 +138965,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 15:32:30",
+      "ultima_modificacion": "2026-09-11 14:47:07",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -139033,7 +139033,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 15:33:10",
+      "ultima_modificacion": "2026-09-11 14:47:20",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -139985,7 +139985,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:49:18",
+      "ultima_modificacion": "2026-09-11 14:40:53",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140019,7 +140019,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:48:25",
+      "ultima_modificacion": "2026-09-11 14:42:12",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140087,7 +140087,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 14:37:46",
+      "ultima_modificacion": "2026-09-11 14:41:19",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140223,7 +140223,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:45:41",
+      "ultima_modificacion": "2026-09-11 14:42:41",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140359,7 +140359,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:47:58",
+      "ultima_modificacion": "2026-09-11 14:43:47",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140427,7 +140427,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:45:01",
+      "ultima_modificacion": "2026-09-11 14:40:27",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140529,7 +140529,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:47:45",
+      "ultima_modificacion": "2026-09-11 14:43:34",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140597,7 +140597,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:45:14",
+      "ultima_modificacion": "2026-09-11 14:40:40",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140699,7 +140699,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:48:11",
+      "ultima_modificacion": "2026-09-11 14:44:13",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -140835,7 +140835,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 14:36:41",
+      "ultima_modificacion": "2026-09-11 14:40:14",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141073,7 +141073,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:39:37",
+      "ultima_modificacion": "2026-09-11 14:45:05",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141141,7 +141141,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:47:04",
+      "ultima_modificacion": "2026-09-11 14:43:20",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141345,7 +141345,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:49:05",
+      "ultima_modificacion": "2026-09-11 14:44:52",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141447,7 +141447,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 14:39:48",
+      "ultima_modificacion": "2026-09-11 14:44:00",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141515,7 +141515,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:48:38",
+      "ultima_modificacion": "2026-09-11 14:44:26",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141583,7 +141583,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:46:51",
+      "ultima_modificacion": "2026-09-11 14:43:07",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141617,7 +141617,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 11:48:52",
+      "ultima_modificacion": "2026-09-11 14:44:39",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -141719,7 +141719,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-08 22:46:00",
+      "ultima_modificacion": "2026-09-11 14:42:54",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -152679,7 +152679,7 @@
       "area": "ÁREA PROTECCIONES ZONAL METROPOLITANA",
       "tipo": "Intervención (IN)",
       "inicio": "02:00",
-      "fin": "05:00",
+      "fin": "04:30",
       "ssee": "MACUL (Subestación)",
       "comp": "Mantenimiento Transferencia auto 110 kV",
       "desc": "SE MACUL; Mantenimiento preventivo a transferencia automática en 110kV.",
@@ -152689,7 +152689,7 @@
       "prog": "aas",
       "aviso": "2026101471",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-13",
       "fFin": "2026-09-13",
       "to1": "1.00",
@@ -152701,7 +152701,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 10:39:53",
+      "ultima_modificacion": "2026-09-11 16:11:20",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -152825,7 +152825,7 @@
       "prog": "aas",
       "aviso": "2026101478",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-13",
       "fFin": "2026-09-13",
       "to1": "1.00",
@@ -152837,7 +152837,41 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 14:23:25",
+      "ultima_modificacion": "2026-09-11 16:47:58",
+      "gm": "[]",
+      "historial": "[]",
+      "recursos_operacion": "[]"
+    },
+    {
+      "id": "5718",
+      "pt": "2026-16617",
+      "zona": "Metropolitana",
+      "area": "Protecciones",
+      "tipo": "Intervención (IN)",
+      "inicio": "06:00",
+      "fin": "14:00",
+      "ssee": "APOQUINDO (Subestación)",
+      "comp": "Cambio de aislacion",
+      "desc": "Deshabilitar bloqueo y habilitar vías e cierre del acoplador BP1-BP2",
+      "obs": "deshabilitar bloqueo y habilitar vías e cierre del acoplador BP1-BP2",
+      "re": "No",
+      "req_ro": "No",
+      "prog": "aas",
+      "aviso": "Relacionado a PT 2026-14078",
+      "sodi": "",
+      "estado": "Autorizado",
+      "fInicio": "2026-09-13",
+      "fFin": "2026-09-13",
+      "to1": "0.00",
+      "to2": "0.00",
+      "go1": "Ingesat",
+      "go2": "Ingesat",
+      "gop": "",
+      "esSodi": "false",
+      "sodiCorrelativo": "",
+      "sodiPara": "",
+      "sodiDe": "",
+      "ultima_modificacion": "2026-09-11 16:45:56",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -154219,7 +154253,7 @@
       "prog": "aas",
       "aviso": "2026103585",
       "sodi": "495 (EPPA) / 496 (TRANSELEC)",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-14",
       "fFin": "2026-09-16",
       "to1": "0.00",
@@ -154231,7 +154265,7 @@
       "sodiCorrelativo": "495 (EPPA) / 496 (TRANSELEC)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-07 12:42:14",
+      "ultima_modificacion": "2026-09-11 16:58:43",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -155401,15 +155435,15 @@
       "inicio": "14:00",
       "fin": "18:00",
       "ssee": "SAN BERNARDO (Subestación)",
-      "comp": "",
+      "comp": "Bloqueo R.A",
       "desc": "SODI 365095 - S/E San Bernardo - Bloquear R.A. Alim Las Palmeras",
       "obs": "",
       "re": "No",
       "req_ro": "No",
-      "prog": "-",
-      "aviso": "",
+      "prog": "ilb",
+      "aviso": "No Requiere",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-14",
       "fFin": "2026-09-14",
       "to1": "0.00",
@@ -155421,7 +155455,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-11 14:03:01",
+      "ultima_modificacion": "2026-09-11 14:48:23",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -156157,7 +156191,7 @@
       "prog": "ilb",
       "aviso": "2026103143",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-15",
       "fFin": "2026-09-15",
       "to1": "1.00",
@@ -156169,7 +156203,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 19:39:34",
+      "ultima_modificacion": "2026-09-11 16:19:17",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -156259,7 +156293,7 @@
       "prog": "ilb",
       "aviso": "2026103143",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-09-15",
       "fFin": "2026-09-15",
       "to1": "1.00",
@@ -156271,7 +156305,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-10 19:39:47",
+      "ultima_modificacion": "2026-09-11 16:19:24",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
