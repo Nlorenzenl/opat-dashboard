@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-09-17T01:49:36.765938+00:00",
+  "ultima_actualizacion": "2026-09-17T03:33:54.177051+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -163873,7 +163873,7 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026110693",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-09-24",
@@ -163887,7 +163887,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-08 14:12:52",
+      "ultima_modificacion": "2026-09-17 03:05:30",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
