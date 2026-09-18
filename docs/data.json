@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-09-18T00:08:40.315172+00:00",
+  "ultima_actualizacion": "2026-09-18T03:19:35.582377+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -166725,7 +166725,7 @@
       "ssee": "LAS ACACIAS (Subestación)",
       "comp": "",
       "desc": "LAS ACACIAS ; MANT. PREV. CTBC TR2 /PMA",
-      "obs": "",
+      "obs": "ADELANTAR PARA EL 26-09-2026",
       "re": "No",
       "req_ro": "Sí",
       "prog": "nl",
@@ -166743,7 +166743,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-08 14:14:44",
+      "ultima_modificacion": "2026-09-18 01:38:38",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
