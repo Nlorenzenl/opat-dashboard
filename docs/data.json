@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-09-24T00:28:43.057364+00:00",
+  "ultima_actualizacion": "2026-09-24T03:17:29.917815+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -171859,11 +171859,11 @@
       "ssee": "STM OCHAGAVIA (Subestación)",
       "comp": "",
       "desc": "SE Ochagavía/ Mantenimiento preventivo a Interruptor 12 KV del Banco de autotransformadores N°1",
-      "obs": "[REPROGRAMACIÓN | Motivo anterior: por coordinacion con otros trabajos de protecciones] ",
+      "obs": "[REPROGRAMACIÓN | Motivo anterior: por coordinacion con otros trabajos de protecciones]",
       "re": "No",
       "req_ro": "Sí",
       "prog": "nll",
-      "aviso": "",
+      "aviso": "2026114297",
       "sodi": "",
       "estado": "En Programación",
       "fInicio": "2026-09-30",
@@ -171877,7 +171877,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-22 18:25:46",
+      "ultima_modificacion": "2026-09-24 00:30:50",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
