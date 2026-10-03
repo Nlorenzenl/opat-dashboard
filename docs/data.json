@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-10-03T00:00:47.323680+00:00",
+  "ultima_actualizacion": "2026-10-03T03:54:53.771251+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -190429,7 +190429,7 @@
       "prog": "nll",
       "aviso": "2026115417",
       "sodi": "567 (Enel)",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-10-04",
       "fFin": "2026-10-04",
       "to1": "1.00",
@@ -190441,7 +190441,7 @@
       "sodiCorrelativo": "567 (Enel)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-10-02 15:25:38",
+      "ultima_modificacion": "2026-10-03 00:51:14",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -193557,7 +193557,7 @@
       "prog": "aas",
       "aviso": "2026116814",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-10-05",
       "fFin": "2026-10-05",
       "to1": "0.00",
@@ -193569,7 +193569,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-29 03:21:13",
+      "ultima_modificacion": "2026-10-03 03:18:38",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -194305,7 +194305,7 @@
       "prog": "aas",
       "aviso": "2026116813",
       "sodi": "",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-10-05",
       "fFin": "2026-10-05",
       "to1": "0.00",
@@ -194317,7 +194317,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-09-29 03:21:36",
+      "ultima_modificacion": "2026-10-03 03:15:08",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
