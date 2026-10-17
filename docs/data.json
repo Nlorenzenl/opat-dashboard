@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-10-17T01:38:36.869606+00:00",
+  "ultima_actualizacion": "2026-10-17T03:06:44.435032+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -281343,7 +281343,7 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "aas",
-      "aviso": "2026114696_09-10",
+      "aviso": "2026123914_23-10",
       "sodi": "547 (ENEL)",
       "estado": "En Programación",
       "fInicio": "2026-10-23",
@@ -281357,7 +281357,7 @@
       "sodiCorrelativo": "547 (ENEL)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-10-13 20:19:49",
+      "ultima_modificacion": "2026-10-17 03:06:25",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -281377,7 +281377,7 @@
       "re": "No",
       "req_ro": "Sí",
       "prog": "aas",
-      "aviso": "2026114696_09-10",
+      "aviso": "2026123914_23-10",
       "sodi": "547 (ENEL)",
       "estado": "En Programación",
       "fInicio": "2026-10-23",
@@ -281391,7 +281391,7 @@
       "sodiCorrelativo": "547 (ENEL)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-10-13 20:20:14",
+      "ultima_modificacion": "2026-10-17 03:06:35",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
