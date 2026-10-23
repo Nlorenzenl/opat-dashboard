@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-10-23T19:29:29.549743+00:00",
+  "ultima_actualizacion": "2026-10-23T22:30:17.065068+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -370799,7 +370799,7 @@
       "prog": "aas",
       "aviso": "2026127011_25-10",
       "sodi": "684 (CGE Dx)",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-10-25",
       "fFin": "2026-10-25",
       "to1": "2.00",
@@ -370811,7 +370811,7 @@
       "sodiCorrelativo": "684 (CGE Dx)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-10-23 15:02:04",
+      "ultima_modificacion": "2026-10-23 20:52:43",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
@@ -370833,7 +370833,7 @@
       "prog": "aas",
       "aviso": "2026127011_25-10",
       "sodi": "684 (CGE Dx)",
-      "estado": "En Programación",
+      "estado": "Autorizado",
       "fInicio": "2026-10-25",
       "fFin": "2026-10-25",
       "to1": "2.00",
@@ -370845,7 +370845,7 @@
       "sodiCorrelativo": "684 (CGE Dx)",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-10-23 15:02:19",
+      "ultima_modificacion": "2026-10-23 21:08:04",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
