@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ultima_actualizacion": "2026-11-12T18:38:36.343412+00:00",
+  "ultima_actualizacion": "2026-11-12T23:51:18.326417+00:00",
   "usuario": {
     "id": 5,
     "nombre": "Nicolas Lorenzen",
@@ -394661,7 +394661,7 @@
       "ssee": "CHACABUCO (Subestación)",
       "comp": "52ET7",
       "desc": "Habilitación y prueba de esquema de protección diferencial parcial entre barra 7 y barra 10 en 23 kV.",
-      "obs": "FALTA AVISO POR 52ET0",
+      "obs": "2026140397_20-11 ET7\n2026142188_20-11-2026 ET7-ET10-ES5",
       "re": "No",
       "req_ro": "Sí",
       "prog": "aas",
@@ -394679,7 +394679,7 @@
       "sodiCorrelativo": "",
       "sodiPara": "",
       "sodiDe": "",
-      "ultima_modificacion": "2026-11-10 15:35:40",
+      "ultima_modificacion": "2026-11-12 18:57:28",
       "gm": "[]",
       "historial": "[]",
       "recursos_operacion": "[]"
